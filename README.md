@@ -5,6 +5,7 @@ My name is Harald and I have been coding since 2004. I wrote my MSc thesis on vi
 I have also contributed to a number of open-sources repos that you can see listed below:
 - [Git](https://github.com/git/git/commits/master?author=HaraldNordgren)
 - [Go (Golang)](https://github.com/golang/go/commits/master?author=HaraldNordgren)
+- [Testify](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren)
 - [Qt](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren)
 - [Heroku](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
 - [Hub](https://github.com/github/hub/commits/master?author=HaraldNordgren)
