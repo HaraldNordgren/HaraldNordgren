@@ -4,7 +4,7 @@ I am Harald Nordgren and I have been coding since 2004. I wrote my MSc thesis on
 
 I have also contributed to a number of open-sources repos that you can see listed below:
 - [Git](https://github.com/git/git/commits/master?author=HaraldNordgren)
-- [Golang main source](https://github.com/golang/go/commits/master?author=HaraldNordgren)
+- [Golang](https://github.com/golang/go/commits/master?author=HaraldNordgren)
 - [Testify](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren)
 - [Golang-migrate](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren)
 - [Heroku CLI](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
