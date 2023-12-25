@@ -1,10 +1,10 @@
 ### Introduction 👋
 
-I'm **Harald Nordgren**, a coder with 20 years of experience. I started my coding journey in the early 2000s and have developed proficiency in Golang, Python, Bash, JS, and C/C++.
+I'm Harald Nordgren, a coder with 20 years of experience. I started my coding journey in the early 2000s and have developed proficiency in Golang, Python, Bash, JS, and C/C++.
 
 ### Current Role 🚀
 
-As the Head of Engineering at Diet Doctor, I lead our journey to better eating, fostering positive health outcomes.
+As the Head of Engineering at Diet Doctor, I lead our initiatives toward better eating, fostering positive health outcomes.
 
 ### Open Source Contributions 🌐
 
