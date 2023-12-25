@@ -1,8 +1,15 @@
-### Hi there 👋
+### Introduction 👋
 
-I am Harald and I have been coding since 2004. I wrote my MSc thesis on video compression and I have worked mostly in Golang, Python, Bash, JS and C/C++.
+I'm **Harald Nordgren**, a coder with 20 years of experience. I started my coding journey in the early 2000s and have developed proficiency in Golang, Python, Bash, JS, and C/C++.
 
-I have also contributed to a number of open-sources repos that you can see listed below:
+### Current Role 🚀
+
+As the Head of Engineering at Diet Doctor, I lead our journey to better eating, fostering positive health outcomes.
+
+### Open Source Contributions 🌐
+
+I've made contributions to various repositories, including:
+
 - [Git](https://github.com/git/git/commits/master?author=HaraldNordgren)
 - [Golang](https://github.com/golang/go/commits/master?author=HaraldNordgren)
 - [Golang-migrate](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren)
@@ -14,3 +21,7 @@ I have also contributed to a number of open-sources repos that you can see liste
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren)
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren)
 - [Travis CI](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren)
+
+Feel free to explore my repositories. For inquiries or to connect, I'm here!
+
+Happy coding! 🚀
