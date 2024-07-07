@@ -29,6 +29,6 @@ I've made contributions to many open source repositories, including, but not lim
   - [GVM](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren)
   - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren)
 
-See all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren) 🚀
+See all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+) 🚀
 
 Happy coding!
