@@ -26,6 +26,7 @@ I've made contributions to many open source repositories, including, but not lim
   - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren)
 - Ruby
   - [Homebrew](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren)
+  - [Travis CI](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren)
 - JavaScript
   - [Heroku CLI](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
   - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren)
