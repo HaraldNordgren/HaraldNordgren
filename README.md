@@ -11,7 +11,7 @@ As the Head of Engineering at Diet Doctor, I lead our initiatives toward better 
 I've made contributions to many open source repositories, including, but not limited to:
 
 - Go
-  - [Golang](https://github.com/golang/go/commits/master?author=HaraldNordgren) (⭐️)
+  - [Go language](https://github.com/golang/go/commits/master?author=HaraldNordgren) (⭐️)
   - [Golang-migrate](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren)
   - [Testify](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren)
   - [Hub](https://github.com/github/hub/commits/master?author=HaraldNordgren)
