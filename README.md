@@ -2,13 +2,13 @@
 
 I'm Harald Nordgren, a coder with 20 years of experience. I started my coding journey in the early 2000s and have developed proficiency in Golang, Python, Bash, JS, and C/C++.
 
-### Current Role 🚀
+### Current Role
 
 As the Head of Engineering at Diet Doctor, I lead our initiatives toward better eating, fostering positive health outcomes.
 
 ### Open Source Contributions 🌐
 
-I've made contributions to various repositories, including:
+I've made contributions to many open source repositories, including:
 
 - [Git](https://github.com/git/git/commits/master?author=HaraldNordgren)
 - [Golang](https://github.com/golang/go/commits/master?author=HaraldNordgren)
@@ -22,6 +22,6 @@ I've made contributions to various repositories, including:
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren)
 - [Travis CI](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren)
 
-Feel free to explore my repositories. For inquiries or to connect, I'm here!
+See all my open source contributions [here](https://github.com/pulls?page=2&q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren) 🚀
 
-Happy coding! 🚀
+Happy coding!
