@@ -17,6 +17,7 @@ I've made contributions to many open source repositories, including, but not lim
   - [Golang](https://github.com/golang/go/commits/master?author=HaraldNordgren) (Go official repository)
   - [Testify](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren)
   - [Golang-migrate](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren)
+  - [Mhemmings/Revenuecat](https://github.com/mhemmings/revenuecat/commits/master?author=HaraldNordgren)
   - [Hub](https://github.com/github/hub/commits/master?author=HaraldNordgren)
   - [PKCS8](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren)
   - [Go-Swish](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren)
