@@ -8,7 +8,7 @@ As the Head of Engineering at Diet Doctor, I lead our initiatives toward better 
 
 ## Open Source Contributions 🌐
 
-I've made contributions to many open source repositories, including, but not limited to:
+I have made contributions to many open source repositories:
 
 #### C / C++
 - [Git](https://github.com/git/git/commits/master?author=HaraldNordgren) (⭐️)
