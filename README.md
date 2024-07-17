@@ -1,6 +1,6 @@
 ## Introduction 👋
 
-I'm Harald Nordgren, a coder with 20 years of experience. I started my coding journey in the early 2000s and have developed proficiency in Golang, Python, Bash, JS, and C/C++.
+My name is Harald Nordgren, a coder with 20 years of experience. I started my coding in the the early 2000s and have developed proficiency in Golang, Python, Bash, JS, and C/C++.
 
 ## Current Role 👨🏼‍💻
 
