@@ -33,9 +33,9 @@ I've made contributions to many open source repositories, including, but not lim
 - [Travis CI](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren)
 
 #### Shell
-- [GVM](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren)
+- [Gvm](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren)
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren)
 
-See more open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+) 🚀
+See all open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+) 🚀
 
 Happy coding!
