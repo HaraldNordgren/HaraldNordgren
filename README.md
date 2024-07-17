@@ -19,15 +19,19 @@ I've made contributions to many open source repositories, including, but not lim
   - [Hub](https://github.com/github/hub/commits/master?author=HaraldNordgren)
   - [Go-version](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren)
   - [Go-swish](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren)
+
 - C / C++
   - [Git](https://github.com/git/git/commits/master?author=HaraldNordgren) (⭐️)
   - [Qt](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren)
+
 - JavaScript
   - [Heroku CLI](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
   - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren)
+
 - Ruby
   - [Homebrew](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren)
   - [Travis CI](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren)
+
 - Shell
   - [GVM](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren)
   - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren)
