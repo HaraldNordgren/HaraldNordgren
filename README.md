@@ -11,11 +11,11 @@ As the Head of Engineering at Diet Doctor, I lead our initiatives toward better 
 I am passionate about open source, and I have made contributions to many projects:
 
 #### C / C++
-- [Git](https://github.com/git/git/commits/master?author=HaraldNordgren) (⭐️)
+- [Git](https://github.com/git/git/commits/master?author=HaraldNordgren) ⭐️
 - [Qt](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren)
 
 #### Golang
-- [Go language](https://github.com/golang/go/commits/master?author=HaraldNordgren) (⭐️)
+- [Go language](https://github.com/golang/go/commits/master?author=HaraldNordgren) ⭐️
 - [Golang-migrate](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren)
 - [Testify](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren)
 - [Revenuecat](https://github.com/mhemmings/revenuecat/commits/master?author=HaraldNordgren)
