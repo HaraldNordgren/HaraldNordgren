@@ -10,6 +10,10 @@ As the Head of Engineering at Diet Doctor, I lead our initiatives toward better 
 
 I've made contributions to many open source repositories, including, but not limited to:
 
+#### C / C++
+- [Git](https://github.com/git/git/commits/master?author=HaraldNordgren) (⭐️)
+- [Qt](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren)
+
 #### Go
 - [Go language](https://github.com/golang/go/commits/master?author=HaraldNordgren) (⭐️)
 - [Golang-migrate](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren)
@@ -19,10 +23,6 @@ I've made contributions to many open source repositories, including, but not lim
 - [Hub](https://github.com/github/hub/commits/master?author=HaraldNordgren)
 - [Go-version](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren)
 - [Go-swish](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren)
-
-#### C / C++
-- [Git](https://github.com/git/git/commits/master?author=HaraldNordgren) (⭐️)
-- [Qt](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren)
 
 #### JavaScript
 - [Heroku CLI](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
