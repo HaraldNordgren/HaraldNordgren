@@ -14,7 +14,7 @@ I am passionate about open source, and I have made contributions to many project
 - [Git](https://github.com/git/git/commits/master?author=HaraldNordgren) (⭐️)
 - [Qt](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren)
 
-#### Go
+#### Golang
 - [Go language](https://github.com/golang/go/commits/master?author=HaraldNordgren) (⭐️)
 - [Golang-migrate](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren)
 - [Testify](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren)
