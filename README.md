@@ -18,7 +18,7 @@ I've made contributions to many open source repositories, including, but not lim
   - [PKCS8](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren)
   - [Hub](https://github.com/github/hub/commits/master?author=HaraldNordgren)
   - [Go-version](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren)
-  - [Go-Swish](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren)
+  - [Go-swish](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren)
 - C / C++
   - [Git](https://github.com/git/git/commits/master?author=HaraldNordgren) (⭐️)
   - [Qt](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren)
