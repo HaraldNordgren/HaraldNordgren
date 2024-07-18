@@ -26,6 +26,7 @@ I am passionate about open source, and I have made contributions to many project
 
 #### JavaScript
 - [Heroku CLI](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
+- [Google Calendar Chrome extension](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren)
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren)
 
 #### Ruby
