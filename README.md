@@ -20,7 +20,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | Project | Description | Language |
 | --- | --- | --- |
 | [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)](https://github.com/git/git/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Version control system | C |
-| [![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)](https://github.com/golang/go/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Programming language | Go |
+| [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://github.com/golang/go/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Programming language | Go |
 | [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing framework for Go | Go |
 | [![Heroku CLI](https://img.shields.io/badge/-Heroku_CLI-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | Command-line interface for Heroku | JavaScript |
 | [![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?logo=homebrew&logoColor=white)](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren) | Package manager for macOS | Ruby |
