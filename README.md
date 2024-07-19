@@ -22,9 +22,9 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)](https://github.com/git/git/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Version control system | C |
 | [![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)](https://github.com/golang/go/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Programming language | Go |
 | [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing framework for Go | Go |
-| [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Heroku CLI](https://img.shields.io/badge/-Heroku_CLI-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | Command-line interface for Heroku | JavaScript |
 | [![Homebrew](https://img.shields.io/badge/-Homebrew-FBB040?logo=homebrew&logoColor=white)](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren) | Package manager for macOS | Ruby |
+| [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Google Calendar](https://img.shields.io/badge/-Google_Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
 | [![Travis CI](https://img.shields.io/badge/-Travis_CI-3EAAAF?logo=travis-ci&logoColor=white)](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren) | Continuous integration service | Ruby |
 | [![Oh My Zsh](https://img.shields.io/badge/-Oh_My_Zsh-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
