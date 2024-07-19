@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Picture](https://github.com/user-attachments/assets/a57fd28d-8b11-46e3-8826-4cfa1c62ccfa)
+<img src="https://github.com/user-attachments/assets/a57fd28d-8b11-46e3-8826-4cfa1c62ccfa" width="750">
 
 
 ## About Me
