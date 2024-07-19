@@ -33,7 +33,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Revenuecat](https://img.shields.io/badge/-Revenuecat-00ADD8?logo=go&logoColor=white)](https://github.com/mhemmings/revenuecat/commits/master?author=HaraldNordgren) | In-app subscription management | Go |
 | [![Golang-migrate](https://img.shields.io/badge/-Golang--migrate-00ADD8?logo=go&logoColor=white)](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Database migrations library | Go |
 | [![Go-version](https://img.shields.io/badge/-Go--version-00ADD8?logo=go&logoColor=white)](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren) | Go library for versioning | Go |
-| [![Pkcs8](https://img.shields.io/badge/-Pkcs8-00ADD8?logo=go&logoColor=white)](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren) | PKCS #8 implementation for Go | Go |
+| [![Pkcs8](https://img.shields.io/badge/-Pkcs8-00ADD8?logo=go&logoColor=white)](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren) | PKCS cryptography implementation | Go |
 | [![Hub](https://img.shields.io/badge/-Hub-00ADD8?logo=go&logoColor=white)](https://github.com/github/hub/commits/master?author=HaraldNordgren) | GitHub command-line tool | Go |
 | [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework | Go |
 | [![Go-elasticsearch](https://img.shields.io/badge/-Go--elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Elasticsearch client | Go |
