@@ -29,16 +29,16 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Oh My Zsh](https://img.shields.io/badge/-Oh_My_Zsh-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
 | [![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren) | Go version manager | Shell |
 | [![Web Scrobbler](https://img.shields.io/badge/-Web_Scrobbler-000000?logo=last.fm&logoColor=white)](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | Browser extension for music scrobbling | JavaScript |
-| [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing framework for Go | Go |
+| [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing framework | Go |
 | [![Revenuecat](https://img.shields.io/badge/-Revenuecat-00ADD8?logo=go&logoColor=white)](https://github.com/mhemmings/revenuecat/commits/master?author=HaraldNordgren) | In-app subscription management | Go |
 | [![Golang-migrate](https://img.shields.io/badge/-Golang--migrate-00ADD8?logo=go&logoColor=white)](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Database migrations library | Go |
 | [![Go-version](https://img.shields.io/badge/-Go--version-00ADD8?logo=go&logoColor=white)](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren) | Go library for versioning | Go |
 | [![Pkcs8](https://img.shields.io/badge/-Pkcs8-00ADD8?logo=go&logoColor=white)](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren) | PKCS #8 implementation for Go | Go |
 | [![Hub](https://img.shields.io/badge/-Hub-00ADD8?logo=go&logoColor=white)](https://github.com/github/hub/commits/master?author=HaraldNordgren) | GitHub command-line tool | Go |
-| [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework for Go | Go |
-| [![Go-elasticsearch](https://img.shields.io/badge/-Go--elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Elasticsearch client for Go | Go |
+| [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework | Go |
+| [![Go-elasticsearch](https://img.shields.io/badge/-Go--elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Elasticsearch client | Go |
 | [![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white)](https://github.com/vulcand/vulcand/commits?author=HaraldNordgren) | Programmable proxy for microservices | Go |
-| [![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white)](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren) | Swish payment integration for Go | Go |
+| [![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white)](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren) | Swish payment integration | Go |
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
