@@ -36,7 +36,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Pkcs8](https://img.shields.io/badge/-PKCS8-00ADD8?logo=go&logoColor=white)](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren) | PKCS cryptography implementation | Go |
 | [![Hub](https://img.shields.io/badge/-Hub-00ADD8?logo=go&logoColor=white)](https://github.com/github/hub/commits/master?author=HaraldNordgren) | GitHub command-line tool | Go |
 | [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework | Go |
-| [![Go-elasticsearch](https://img.shields.io/badge/-Go--elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Elasticsearch client | Go |
+| [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Elasticsearch client | Go |
 | [![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white)](https://github.com/vulcand/vulcand/commits?author=HaraldNordgren) | Programmable proxy for microservices | Go |
 | [![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white)](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren) | Swish payment integration | Go |
 
