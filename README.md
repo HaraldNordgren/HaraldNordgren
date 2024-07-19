@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. My coding journey began in the early 2000s, and over the years, I've honed my skills in **Golang**, **Python**, **Bash**, **JavaScript**, and **C/C++**.
+Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. My coding journey began in the early 2000s, and over the years, I've honed my skills in **Golang**, **Python**, **Bash**, **JavaScript** and **C/C++**.
 
 ## Current Role
 
