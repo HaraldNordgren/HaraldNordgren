@@ -22,8 +22,10 @@ I am passionate about open source, and I have made contributions to many project
 - [Pkcs8](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren)
 - [Hub](https://github.com/github/hub/commits/master?author=HaraldNordgren)
 - [Moq](https://github.com/matryer/moq/commits?author=HaraldNordgren)
+- [Vulcand](https://github.com/vulcand/vulcand/commits?author=HaraldNordgren)
 - [Go-version](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren)
 - [Go-swish](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren)
+- [Go-elasticsearch](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren)
 
 #### JavaScript
 - [Heroku CLI](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
