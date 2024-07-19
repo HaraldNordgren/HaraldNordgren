@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. My coding journey began in the early 2000s, and over the years, I've honed my skills in **Golang**, **Python**, **Bash**, **JavaScript** and **C/C++**.
+Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. My coding journey began in the early 2000s, and over the years, I've honed my skills in **Golang**, **Python**, **Bash**, **JavaScript** and **C/C++**. I am passionate about open-source contributions and believe in the power of collaborative development.
 
 ## Current Role
 
@@ -13,7 +13,7 @@ Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. M
 
 At Diet Doctor, I lead engineering initiatives aimed at promoting healthier eating habits and fostering positive health outcomes.
 
-## Open Source Contributions 🌐
+## Open Source Contributions
 
 I'm passionate about open source and have contributed to a variety of projects. Here are some of my contributions:
 
@@ -42,8 +42,5 @@ I'm passionate about open source and have contributed to a variety of projects. 
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
-## Let's Connect
+Happy coding! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/harald-nordgren-44778192/)
-
-Happy coding!
