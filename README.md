@@ -28,18 +28,18 @@ I am passionate about open source, and I have made contributions to many project
 - [Go-swish](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren)
 
 #### JavaScript
-- [Heroku CLI](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
 - [Google Calendar Chrome extension](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren)
+- [Heroku CLI](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren)
 - [Web Scrobbler](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren)
+
+#### Shell
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren)
+- [Gvm](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren)
 
 #### Ruby
 - [Homebrew](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren)
 - [Travis CI](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren)
 
-#### Shell
-- [Gvm](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren)
-- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren)
-
-See all open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
+See all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
 Happy coding!
