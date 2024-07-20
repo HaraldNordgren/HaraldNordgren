@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. My coding journey began in the early 2000s, and over the years, I've honed my skills in **Golang**, **Python**, **Bash**, **JavaScript** and **C/C++**. I am passionate about open-source contributions and believe in the power of collaborative development.
+Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. My coding journey began in the early 2000s, and over the years, I've honed my skills in **Go**, **Python**, **Bash**, **JavaScript** and **C/C++**. I am passionate about open-source contributions and believe in the power of collaborative development.
 
 ## Current Role
 
@@ -27,7 +27,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Heroku CLI](https://img.shields.io/badge/-Heroku_CLI-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | Command-line interface for Heroku | JavaScript |
 | [![Travis CI](https://img.shields.io/badge/-Travis_CI-3EAAAF?logo=travis-ci&logoColor=white)](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren) | Continuous integration service | Ruby |
-| [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Golang client for Elasticsearch | Go |
+| [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
 | [![Google Calendar](https://img.shields.io/badge/-Google_Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
 | [![Oh My Zsh](https://img.shields.io/badge/-Oh_My_Zsh-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
