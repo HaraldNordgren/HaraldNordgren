@@ -17,8 +17,6 @@ At Diet Doctor, I lead engineering initiatives aimed at promoting healthier eati
 
 I'm passionate about open source and have contributed to a variety of projects. Here are some of my contributions:
 
-# Open Source Contributions
-
 | Project | Description | Language |
 | --- | --- | --- |
 | [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)](https://github.com/git/git/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Version control system | C |
