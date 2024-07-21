@@ -28,6 +28,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
 | [![Google Calendar](https://img.shields.io/badge/-Google_Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
+| [![Splinter](https://img.shields.io/badge/-Splinter-45b8d8?logo=python&logoColor=white)](https://github.com/cobrateam/splinter/commits?author=HaraldNordgren) | Browser automation tool | Python |
 | [![Oh My Zsh](https://img.shields.io/badge/-Oh_My_Zsh-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
 | [![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren) | Go version manager | Shell |
 | [![Web Scrobbler](https://img.shields.io/badge/-Web_Scrobbler-000000?logo=last.fm&logoColor=white)](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | Browser extension for music scrobbling | JavaScript |
