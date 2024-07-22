@@ -1,14 +1,14 @@
-# About Me
+## About Me
 
 Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. My coding journey began in the early 2000s, and over the years, I've honed my skills in **Go**, **Python**, **Bash**, **JavaScript** and **C/C++**. I am passionate about open-source contributions and believe in the power of collaborative development.
 
-# Current Role
+## Current Role
 
 👨🏼‍💻 **Head of Engineering at Diet Doctor**
 
 At Diet Doctor, I lead engineering initiatives aimed at promoting healthier eating habits and fostering positive health outcomes.
 
-# Open Source Contributions
+## Open Source Contributions
 
 I'm passionate about open source and have contributed to a variety of projects. Here are some of my contributions:
 
