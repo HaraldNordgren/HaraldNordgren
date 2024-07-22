@@ -23,7 +23,6 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-00ADD8?logo=go&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
 | [![Google Calendar](https://img.shields.io/badge/-Google_Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
-| [![Splinter](https://img.shields.io/badge/-Splinter-45b8d8?logo=python&logoColor=white)](https://github.com/cobrateam/splinter/commits?author=HaraldNordgren) | Browser automation tool | Python |
 | [![Oh My Zsh](https://img.shields.io/badge/-Oh_My_Zsh-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
 | [![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren) | Go version manager | Shell |
 | [![Web Scrobbler](https://img.shields.io/badge/-Web_Scrobbler-000000?logo=last.fm&logoColor=white)](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | Browser extension for music scrobbling | JavaScript |
@@ -35,7 +34,11 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework for Go | Go |
 | [![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white)](https://github.com/vulcand/vulcand/commits?author=HaraldNordgren) | Programmable proxy for microservices | Go |
 | [![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white)](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren) | Go library for Swish payment integration | Go |
-
+| [![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white)](https://github.com/thoas/go-funk/commits?author=HaraldNordgren) | Functional utilities for Go | Go |
+| [![Golang-combinations](https://img.shields.io/badge/-Golang--combinations-00ADD8?logo=go&logoColor=white)](https://github.com/mxschmitt/golang-combinations/commits?author=HaraldNordgren) | Generate combinations in Go | Go |
+| [![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white)](https://github.com/cobrateam/splinter/commits?author=HaraldNordgren) | Browser automation tool | Python |
+| [![Nose-timer](https://img.shields.io/badge/-Nose--timer-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Amahmoudimus%2Fnose-timer) | Timer plugin for Nose tests | Python |
+| [![Python-driver](https://img.shields.io/badge/-Python--driver-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python driver for Apache Cassandra | Python |
 
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
