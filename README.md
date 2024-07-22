@@ -20,7 +20,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-F15A24?logo=zsh&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
 | [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | Command-line interface for Heroku | JavaScript |
-| [![Google Calendar](https://img.shields.io/badge/-Google_Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
+| [![Calendar](https://img.shields.io/badge/-Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
 | [![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white)](https://github.com/github/hub/commits/master?author=HaraldNordgren) | GitHub command-line tool | Go |
 | [![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren) | Go version manager | Shell |
 | [![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python driver for Apache Cassandra | Python |
