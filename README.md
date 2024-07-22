@@ -38,7 +38,7 @@ Sure, here's the list formatted as a markdown table, ordered by significance:
 | [![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white)](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren) | Go library for Swish payment integration | Go |
 | [![Go-version](https://img.shields.io/badge/-Go--version-00ADD8?logo=go&logoColor=white)](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren) | Go library for parsing versions | Go |
 | [![Golang-combinations](https://img.shields.io/badge/-Golang--combinations-00ADD8?logo=go&logoColor=white)](https://github.com/mxschmitt/golang-combinations/commits?author=HaraldNordgren) | Generate combinations in Go | Go |
-| [![Python-driver](https://img.shields.io/badge/-Python--driver-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python driver for Apache Cassandra | Python |
+| [![Cassandra](https://img.shields.io/badge/-Cassandra-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python driver for Apache Cassandra | Python |
 | [![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white)](https://github.com/cobrateam/splinter/commits?author=HaraldNordgren) | Browser automation tool | Python |
 | [![Nose-timer](https://img.shields.io/badge/-Nose--timer-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Amahmoudimus%2Fnose-timer) | Timer plugin for Nose tests | Python |
 
