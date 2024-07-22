@@ -38,7 +38,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Go-combinations](https://img.shields.io/badge/-Go--combinations-00ADD8?logo=go&logoColor=white)](https://github.com/mxschmitt/golang-combinations/commits?author=HaraldNordgren) | Generate combinations in Go | Go |
 | [![Cassandra](https://img.shields.io/badge/-Cassandra-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python driver for Apache Cassandra | Python |
 | [![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white)](https://github.com/cobrateam/splinter/commits?author=HaraldNordgren) | Browser automation tool | Python |
-| [![Nose-timer](https://img.shields.io/badge/-Nose--timer-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Amahmoudimus%2Fnose-timer) | Timer plugin for Nose tests | Python |
+| [![Nose](https://img.shields.io/badge/-Nose-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Amahmoudimus%2Fnose-timer) | Timer plugin for Nose tests | Python |
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
