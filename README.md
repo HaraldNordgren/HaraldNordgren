@@ -16,6 +16,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | --- | --- | --- |
 | [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)](https://github.com/git/git/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Version control system | C |
 | [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://github.com/golang/go/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Programming language | Go |
+| [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
 | [![Brew](https://img.shields.io/badge/-Brew-FBB040?logo=homebrew&logoColor=white)](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren) | Package manager for macOS | Ruby |
 | [![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-F15A24?logo=zsh&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
 | [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
@@ -24,7 +25,6 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white)](https://github.com/github/hub/commits/master?author=HaraldNordgren) | GitHub command-line tool | Go |
 | [![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren) | Go version manager | Shell |
 | [![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python driver for Apache Cassandra | Python |
-| [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
 | [![Go-migrate](https://img.shields.io/badge/-Go--migrate-00ADD8?logo=go&logoColor=white)](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Database migrations library | Go |
 | [![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white)](https://github.com/thoas/go-funk/commits?author=HaraldNordgren) | Functional utilities for Go | Go |
 | [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework for Go | Go |
