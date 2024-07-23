@@ -26,9 +26,9 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python driver for Apache Cassandra | Python |
 | [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
 | [![Go-migrate](https://img.shields.io/badge/-Go--migrate-00ADD8?logo=go&logoColor=white)](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Database migrations library | Go |
+| [![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white)](https://github.com/thoas/go-funk/commits?author=HaraldNordgren) | Functional utilities for Go | Go |
 | [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework for Go | Go |
 | [![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white)](https://github.com/vulcand/vulcand/commits?author=HaraldNordgren) | Programmable proxy for microservices | Go |
-| [![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white)](https://github.com/thoas/go-funk/commits?author=HaraldNordgren) | Functional utilities for Go | Go |
 | [![Revenuecat](https://img.shields.io/badge/-Revenuecat-00ADD8?logo=go&logoColor=white)](https://github.com/mhemmings/revenuecat/commits/master?author=HaraldNordgren) | In-app subscription management | Go |
 | [![Go-version](https://img.shields.io/badge/-Go--version-00ADD8?logo=go&logoColor=white)](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren) | Go library for parsing versions | Go |
 | [![Pkcs8](https://img.shields.io/badge/-PKCS8-00ADD8?logo=go&logoColor=white)](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren) | PKCS #8 cryptography standard implementation | Go |
