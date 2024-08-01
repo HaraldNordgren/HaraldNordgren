@@ -22,8 +22,10 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | Command-line interface for Heroku | JavaScript |
 | [![Calendar](https://img.shields.io/badge/-Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
+| [![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)](https://github.com/getsentry/sentry-wizard/commits/master?author=HaraldNordgren) | Wizard for setting up Sentry | TypeScript |
 | [![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white)](https://github.com/github/hub/commits/master?author=HaraldNordgren) | GitHub command-line tool | Go |
 | [![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren) | Go version manager | Shell |
+| [![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python driver for Apache Cassandra | Python |
 | [![Go-migrate](https://img.shields.io/badge/-Go--migrate-00ADD8?logo=go&logoColor=white)](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Database migrations library | Go |
 | [![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white)](https://github.com/thoas/go-funk/commits?author=HaraldNordgren) | Functional utilities for Go | Go |
@@ -35,7 +37,6 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Go-combinations](https://img.shields.io/badge/-Go--combinations-00ADD8?logo=go&logoColor=white)](https://github.com/mxschmitt/golang-combinations/commits?author=HaraldNordgren) | Generate combinations in Go | Go |
 | [![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white)](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren) | Go library for Swish payment integration | Go |
 | [![Travis](https://img.shields.io/badge/-Travis-3EAAAF?logo=travis-ci&logoColor=white)](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren) | Continuous integration service | Ruby |
-| [![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white)](https://github.com/cobrateam/splinter/commits?author=HaraldNordgren) | Browser automation tool | Python |
 | [![Nose](https://img.shields.io/badge/-Nose-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Amahmoudimus%2Fnose-timer) | Timer plugin for Nose tests | Python |
 | [![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white)](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | Browser extension for music scrobbling | JavaScript |
