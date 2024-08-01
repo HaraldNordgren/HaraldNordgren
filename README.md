@@ -21,9 +21,9 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Brew](https://img.shields.io/badge/-Brew-FBB040?logo=homebrew&logoColor=white)](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren) | Package manager for macOS | Ruby |
 | [![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-F15A24?logo=zsh&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
-| [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)](https://github.com/getsentry/sentry-wizard/commits/master?author=HaraldNordgren) | Wizard for setting up Sentry | TypeScript |
 | [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | Command-line interface for Heroku | JavaScript |
+| [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white)](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | Browser extension for music scrobbling | TypeScript |
 | [![Calendar](https://img.shields.io/badge/-Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
 | [![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white)](https://github.com/github/hub/commits/master?author=HaraldNordgren) | GitHub command-line tool | Go |
