@@ -23,6 +23,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | Command-line interface for Heroku | JavaScript |
 | [![Calendar](https://img.shields.io/badge/-Calendar-4285F4?logo=google&logoColor=white)](https://github.com/chimbori/google-calendar-crx/commits?author=HaraldNordgren) | Chrome extension for Google Calendar | JavaScript |
 | [![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)](https://github.com/getsentry/sentry-wizard/commits/master?author=HaraldNordgren) | Wizard for setting up Sentry | TypeScript |
+| [![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white)](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | Browser extension for music scrobbling | TypeScript |
 | [![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white)](https://github.com/github/hub/commits/master?author=HaraldNordgren) | GitHub command-line tool | Go |
 | [![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white)](https://github.com/moovweb/gvm/commits/master?author=HaraldNordgren) | Go version manager | Shell |
 | [![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
@@ -39,7 +40,6 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Travis](https://img.shields.io/badge/-Travis-3EAAAF?logo=travis-ci&logoColor=white)](https://github.com/travis-ci/travis.rb/commits/master?author=HaraldNordgren) | Continuous integration service | Ruby |
 | [![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white)](https://github.com/cobrateam/splinter/commits?author=HaraldNordgren) | Browser automation tool | Python |
 | [![Nose](https://img.shields.io/badge/-Nose-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Amahmoudimus%2Fnose-timer) | Timer plugin for Nose tests | Python |
-| [![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white)](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | Browser extension for music scrobbling | JavaScript |
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
