@@ -16,13 +16,13 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | --- | --- | --- |
 | [![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)](https://github.com/git/git/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Version control system | C |
 | [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://github.com/golang/go/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Programming language | Go |
-| [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
-| [![Migrate](https://img.shields.io/badge/-Migrate-00ADD8?logo=go&logoColor=white)](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Database migrations library | Go |
 | [![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Brew](https://img.shields.io/badge/-Brew-FBB040?logo=homebrew&logoColor=white)](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren) | Package manager for macOS | Ruby |
 | [![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-F15A24?logo=zsh&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
 | [![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)](https://github.com/getsentry/sentry-wizard/commits/master?author=HaraldNordgren) | Wizard for setting up Sentry | TypeScript |
 | [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | CLI for Heroku | JavaScript |
+| [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
+| [![Migrate](https://img.shields.io/badge/-Migrate-00ADD8?logo=go&logoColor=white)](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Database migrations library | Go |
 | [![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Driver for Apache Cassandra | Python |
 | [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white)](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | Browser extension for music scrobbling | TypeScript |
