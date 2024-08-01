@@ -33,12 +33,12 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white)](https://github.com/cobrateam/splinter/commits?author=HaraldNordgren) | Browser automation tool | Python |
 | [![Nose](https://img.shields.io/badge/-Nose-3776AB?logo=python&logoColor=white)](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Amahmoudimus%2Fnose-timer) | Timer plugin for Nose tests | Python |
 | [![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white)](https://github.com/thoas/go-funk/commits?author=HaraldNordgren) | Functional utilities for Go | Go |
-| [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework for Go | Go |
 | [![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white)](https://github.com/vulcand/vulcand/commits?author=HaraldNordgren) | Programmable proxy for microservices | Go |
-| [![Revenuecat](https://img.shields.io/badge/-Revenuecat-00ADD8?logo=go&logoColor=white)](https://github.com/mhemmings/revenuecat/commits/master?author=HaraldNordgren) | In-app subscription management | Go |
+| [![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white)](https://github.com/matryer/moq/commits?author=HaraldNordgren) | Mocking framework for Go | Go |
 | [![Go-version](https://img.shields.io/badge/-Go--version-00ADD8?logo=go&logoColor=white)](https://github.com/mcuadros/go-version/commits/master?author=HaraldNordgren) | Go library for parsing versions | Go |
 | [![Pkcs8](https://img.shields.io/badge/-PKCS8-00ADD8?logo=go&logoColor=white)](https://github.com/youmark/pkcs8/commits/master?author=HaraldNordgren) | PKCS #8 cryptography standard implementation | Go |
 | [![Go-combinations](https://img.shields.io/badge/-Go--combinations-00ADD8?logo=go&logoColor=white)](https://github.com/mxschmitt/golang-combinations/commits?author=HaraldNordgren) | Generate combinations in Go | Go |
+| [![Revenuecat](https://img.shields.io/badge/-Revenuecat-00ADD8?logo=go&logoColor=white)](https://github.com/mhemmings/revenuecat/commits/master?author=HaraldNordgren) | In-app subscription management | Go |
 | [![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white)](https://github.com/frozzare/go-swish/commits/master?author=HaraldNordgren) | Go library for Swish payment integration | Go |
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
