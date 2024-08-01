@@ -18,9 +18,9 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | [![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)](https://github.com/golang/go/commits/master?author=HaraldNordgren) | **Highlighted Contribution**: Programming language | Go |
 | [![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white)](https://github.com/stretchr/testify/commits/master?author=HaraldNordgren) | Testing toolkit for Go | Go |
 | [![Go-migrate](https://img.shields.io/badge/-Go--migrate-00ADD8?logo=go&logoColor=white)](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Database migrations library | Go |
+| [![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Brew](https://img.shields.io/badge/-Brew-FBB040?logo=homebrew&logoColor=white)](https://github.com/Homebrew/brew/commits/master?author=HaraldNordgren) | Package manager for macOS | Ruby |
 | [![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-F15A24?logo=zsh&logoColor=white)](https://github.com/ohmyzsh/ohmyzsh/commits/master?author=HaraldNordgren) | Framework for managing Zsh configuration | Shell |
-| [![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white)](https://github.com/elastic/go-elasticsearch/commits?author=HaraldNordgren) | Go client for Elasticsearch | Go |
 | [![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | Cross-platform application framework | C++ |
 | [![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white)](https://github.com/getsentry/sentry-wizard/commits/master?author=HaraldNordgren) | Wizard for setting up Sentry | TypeScript |
 | [![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white)](https://github.com/heroku/heroku-apps/commits/master?author=HaraldNordgren) | Command-line interface for Heroku | JavaScript |
