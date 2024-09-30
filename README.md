@@ -25,6 +25,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Migrate](https://img.shields.io/badge/-Migrate-00ADD8?logo=go&logoColor=white) | [Database migrations library](https://github.com/golang-migrate/migrate/commits/master?author=HaraldNordgren) | Go |
 | ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white) | [Driver for Apache Cassandra](https://github.com/pulls?q=author%3AHaraldNordgren+is%3Amerged+repo%3Adatastax%2Fpython-driver) | Python |
 | ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) | [Cross-platform application framework](https://github.com/qt/qtbase/commits/dev?author=HaraldNordgren) | C++ |
+| ![qBittorrent](https://img.shields.io/badge/-qBittorrent-2F67BA?logo=qbittorrent&logoColor=white) | [BitTorrent client based on Qt](https://github.com/qbittorrent/qBittorrent/commits/master/?author=HaraldNordgren) | C++ |
 | ![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white) | [Browser extension for music scrobbling](https://github.com/web-scrobbler/web-scrobbler/commits/master?author=HaraldNordgren) | JavaScript |
 | ![Genqlient](https://img.shields.io/badge/-Genqlient-E10098?logo=graphql&logoColor=white) | [GraphQL client for Go](https://github.com/Khan/genqlient/commits?author=HaraldNordgren) | Go |
 | ![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white) | [GitHub command-line tool](https://github.com/github/hub/commits/master?author=HaraldNordgren) | Go |
