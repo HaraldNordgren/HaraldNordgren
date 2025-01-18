@@ -14,7 +14,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 
 | Project | Description | Language |
 | --- | --- | --- |
-| ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) | [**Highlighted Contribution**: Version control system](https://github.com/git/git/commits/master?author=HaraldNordgren) | C |
+| ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) | [**Highlighted Contribution**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren) | C |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | [**Highlighted Contribution**: Programming language](https://go-review.googlesource.com/q/owner:haraldnordgren@gmail.com+is:merged) | Go |
 | ![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white) | [Go client for Elasticsearch](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:elastic/go-elasticsearch) | Go |
 | ![Brew](https://img.shields.io/badge/-Brew-FBB040?logo=homebrew&logoColor=white) | [Package manager for macOS](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Homebrew/brew) | Ruby |
