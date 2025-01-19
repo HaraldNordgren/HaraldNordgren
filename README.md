@@ -16,6 +16,8 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | --- | --- | --- |
 | ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) | [**Highlighted Contribution**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | [**Highlighted Contribution**: Programming language](https://go-review.googlesource.com/q/owner:haraldnordgren@gmail.com+is:merged) | Go |
+| ![Docker](https://img.shields.io/badge/-Docker-005571?logo=docker&logoColor=white) | [Docker](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:docker/docs) | Go |
+| ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) | [OpenAI](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai) | Go |
 | ![Elastic](https://img.shields.io/badge/-Elastic-005571?logo=elasticsearch&logoColor=white) | [Go client for Elasticsearch](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:elastic/go-elasticsearch) | Go |
 | ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) | [Cross-platform application framework](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C++ |
 | ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white) | [Driver for Apache Cassandra](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:datastax/python-driver) | Python |
@@ -35,6 +37,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white) | [Go version manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm) | Shell |
 | ![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white) | [Functional utilities for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:thoas/go-funk) | Go |
 | ![Go-version](https://img.shields.io/badge/-Go--version-00ADD8?logo=go&logoColor=white) | [Go library for parsing versions](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mcuadros/go-version) | Go |
+| ![Reform](https://img.shields.io/badge/-Reform-00ADD8?logo=go&logoColor=white) | [Reform](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:go-reform/reform) | Go |
 | ![Combinations](https://img.shields.io/badge/-Combinations-00ADD8?logo=go&logoColor=white) | [Generate combinations in Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mxschmitt/golang-combinations) | Go |
 | ![Pkcs8](https://img.shields.io/badge/-PKCS8-00ADD8?logo=go&logoColor=white) | [PKCS #8 cryptography standard implementation](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:youmark/pkcs8) | Go |
 | ![Revenuecat](https://img.shields.io/badge/-Revenuecat-00ADD8?logo=go&logoColor=white) | [In-app subscription management](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mhemmings/revenuecat) | Go |
