@@ -16,7 +16,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | --- | --- | --- |
 | ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) | [**Highlighted Contribution**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | [**Highlighted Contribution**: Programming language](https://go-review.googlesource.com/q/owner:haraldnordgren@gmail.com+is:merged) | Go |
-| ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | [Docker](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:docker/docs) | Go |
+| ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | [Containerization platform](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:docker/docs) | Go |
 | ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) | [Cross-platform application framework](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C++ |
 | ![Brew](https://img.shields.io/badge/-Brew-FBB040?logo=homebrew&logoColor=white) | [Package manager for macOS](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Homebrew/brew) | Ruby |
 | ![Travis](https://img.shields.io/badge/-Travis-3EAAAF?logo=travis-ci&logoColor=white) | [Continuous integration service](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:travis-ci/travis.rb) | Ruby |
@@ -33,7 +33,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white) | [Browser automation tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter) | Python |
 | ![Genqlient](https://img.shields.io/badge/-Genqlient-E10098?logo=graphql&logoColor=white) | [GraphQL client for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient) | Go |
 | ![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white) | [Programmable proxy for microservices](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:vulcand/vulcand) | Go |
-| ![Reform](https://img.shields.io/badge/-Reform-00ADD8?logo=go&logoColor=white) | [Reform](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:go-reform/reform) | Go |
+| ![Reform](https://img.shields.io/badge/-Reform-00ADD8?logo=go&logoColor=white) | [ORM library for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:go-reform/reform) | Go |
 | ![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white) | [Mocking framework](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:matryer/moq) | Go |
 | ![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white) | [Functional utilities for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:thoas/go-funk) | Go |
 | ![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white) | [Go version manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm) | Shell |
@@ -42,7 +42,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Pkcs8](https://img.shields.io/badge/-PKCS8-00ADD8?logo=go&logoColor=white) | [PKCS #8 cryptography standard implementation](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:youmark/pkcs8) | Go |
 | ![Revenuecat](https://img.shields.io/badge/-Revenuecat-00ADD8?logo=go&logoColor=white) | [In-app subscription management](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mhemmings/revenuecat) | Go |
 | ![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white) | [Swish payment integration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:frozzare/go-swish) | Go |
-| ![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white) | [Browser extension for music scrobbling](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:web-scrobbler/web-scrobbler) | JavaScript |
+| ![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white) | [Music scrobbling browser extension](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:web-scrobbler/web-scrobbler) | JavaScript |
 | ![Calendar](https://img.shields.io/badge/-Calendar-4285F4?logo=google&logoColor=white) | [Chrome extension for Google Calendar](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx) | JavaScript |
 | ![Nose](https://img.shields.io/badge/-Nose-3776AB?logo=python&logoColor=white) | [Timer plugin for Nose tests](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer) | Python |
 
