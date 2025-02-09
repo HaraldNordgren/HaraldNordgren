@@ -23,10 +23,10 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white) | [CLI for Heroku](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:heroku/heroku-apps) | JavaScript |
 | ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) | [Unofficial client for OpenAI](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai) | Go |
 | ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white) | [Wizard for setting up Sentry](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:getsentry/sentry-wizard) | TypeScript |
+| ![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white) | [Testing toolkit for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify) | Go |
 | ![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-F15A24?logo=zsh&logoColor=white) | [Framework for Zsh configuration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:ohmyzsh/ohmyzsh) | Shell |
 | ![qBittorrent](https://img.shields.io/badge/-qBittorrent-2F67BA?logo=qbittorrent&logoColor=white) | [BitTorrent client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:qbittorrent/qBittorrent) | C++ |
 | ![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white) | [GitHub command-line tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mislav/hub) | Go |
-| ![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white) | [Testing toolkit for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify) | Go |
 | ![Migrate](https://img.shields.io/badge/-Migrate-00ADD8?logo=go&logoColor=white) | [Database migrations library](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:golang-migrate/migrate) | Go |
 | ![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white) | [Programmable proxy for microservices](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:vulcand/vulcand) | Go |
 | ![Reform](https://img.shields.io/badge/-Reform-00ADD8?logo=go&logoColor=white) | [ORM library for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:go-reform/reform) | Go |
