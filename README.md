@@ -30,12 +30,12 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white) | [GitHub command-line tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mislav/hub) | Go |
 | ![Migrate](https://img.shields.io/badge/-Migrate-00ADD8?logo=go&logoColor=white) | [Database migrations library](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:golang-migrate/migrate) | Go |
 | ![Genqlient](https://img.shields.io/badge/-Genqlient-E10098?logo=graphql&logoColor=white) | [GraphQL client for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient) | Go |
-| ![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white) | [Programmable proxy for microservices](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:vulcand/vulcand) | Go |
 | ![Reform](https://img.shields.io/badge/-Reform-00ADD8?logo=go&logoColor=white) | [ORM library for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:go-reform/reform) | Go |
 | ![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white) | [Mocking framework](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:matryer/moq) | Go |
 | ![Gvm](https://img.shields.io/badge/-Gvm-1A1A1A?logo=gnu-bash&logoColor=white) | [Go version manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm) | Shell |
 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | [Documentation for containerization platform](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:docker/docs) | Go |
 | ![Travis](https://img.shields.io/badge/-Travis-3EAAAF?logo=travis-ci&logoColor=white) | [Documentation for CI/CD service](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:travis-ci/travis.rb) | Ruby |
+| ![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white) | [Programmable proxy for microservices](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:vulcand/vulcand) | Go |
 | ![Go-funk](https://img.shields.io/badge/-Go--funk-00ADD8?logo=go&logoColor=white) | [Functional utilities for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:thoas/go-funk) | Go |
 | ![Go-version](https://img.shields.io/badge/-Go--version-00ADD8?logo=go&logoColor=white) | [Go library for parsing versions](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mcuadros/go-version) | Go |
 | ![Combinations](https://img.shields.io/badge/-Combinations-00ADD8?logo=go&logoColor=white) | [Generate combinations in Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mxschmitt/golang-combinations) | Go |
