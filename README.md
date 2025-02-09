@@ -26,6 +26,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white) | [Testing toolkit for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify) | Go |
 | ![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-F15A24?logo=zsh&logoColor=white) | [Framework for Zsh configuration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:ohmyzsh/ohmyzsh) | Shell |
 | ![qBittorrent](https://img.shields.io/badge/-qBittorrent-2F67BA?logo=qbittorrent&logoColor=white) | [BitTorrent client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:qbittorrent/qBittorrent) | C++ |
+| ![Calendar](https://img.shields.io/badge/-Calendar-4285F4?logo=google&logoColor=white) | [Chrome extension for Google Calendar](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx) | JavaScript |
 | ![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white) | [GitHub command-line tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mislav/hub) | Go |
 | ![Migrate](https://img.shields.io/badge/-Migrate-00ADD8?logo=go&logoColor=white) | [Database migrations library](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:golang-migrate/migrate) | Go |
 | ![Genqlient](https://img.shields.io/badge/-Genqlient-E10098?logo=graphql&logoColor=white) | [GraphQL client for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient) | Go |
@@ -44,7 +45,6 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white) | [Browser automation tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter) | Python |
 | ![Nose](https://img.shields.io/badge/-Nose-3776AB?logo=python&logoColor=white) | [Timer plugin for Nose tests](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer) | Python |
 | ![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white) | [Browser extension for music scrobbling](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:web-scrobbler/web-scrobbler) | JavaScript |
-| ![Calendar](https://img.shields.io/badge/-Calendar-4285F4?logo=google&logoColor=white) | [Chrome extension for Google Calendar](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx) | JavaScript |
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
