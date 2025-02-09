@@ -28,9 +28,9 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![qBittorrent](https://img.shields.io/badge/-qBittorrent-2F67BA?logo=qbittorrent&logoColor=white) | [BitTorrent client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:qbittorrent/qBittorrent) | C++ |
 | ![Hub](https://img.shields.io/badge/-Hub-181717?logo=github&logoColor=white) | [GitHub command-line tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mislav/hub) | Go |
 | ![Migrate](https://img.shields.io/badge/-Migrate-00ADD8?logo=go&logoColor=white) | [Database migrations library](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:golang-migrate/migrate) | Go |
+| ![Genqlient](https://img.shields.io/badge/-Genqlient-E10098?logo=graphql&logoColor=white) | [GraphQL client for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient) | Go |
 | ![Vulcand](https://img.shields.io/badge/-Vulcand-00ADD8?logo=go&logoColor=white) | [Programmable proxy for microservices](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:vulcand/vulcand) | Go |
 | ![Reform](https://img.shields.io/badge/-Reform-00ADD8?logo=go&logoColor=white) | [ORM library for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:go-reform/reform) | Go |
-| ![Genqlient](https://img.shields.io/badge/-Genqlient-E10098?logo=graphql&logoColor=white) | [GraphQL client for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient) | Go |
 | ![Moq](https://img.shields.io/badge/-Moq-00ADD8?logo=go&logoColor=white) | [Mocking framework](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:matryer/moq) | Go |
 | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) | [Documentation for containerization platform](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:docker/docs) | Go |
 | ![Travis](https://img.shields.io/badge/-Travis-3EAAAF?logo=travis-ci&logoColor=white) | [Documentation for CI/CD service](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:travis-ci/travis.rb) | Ruby |
