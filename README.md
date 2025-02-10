@@ -44,7 +44,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white) | [Swish payment integration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:frozzare/go-swish) | Go |
 | ![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white) | [Browser automation tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter) | Python |
 | ![Nose](https://img.shields.io/badge/-Nose-3776AB?logo=python&logoColor=white) | [Timer plugin for Nose tests](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer) | Python |
-| ![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white) | [Browser extension for music scrobbling](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:web-scrobbler/web-scrobbler) | JavaScript |
+| ![Last.fm](https://img.shields.io/badge/-Last.fm-D51007?logo=last.fm&logoColor=white) | [Browser extension for Last.fm](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:web-scrobbler/web-scrobbler) | JavaScript |
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
