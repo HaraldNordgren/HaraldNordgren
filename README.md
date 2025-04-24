@@ -16,6 +16,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | --- | --- | --- |
 | ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) | [**Highlighted Contribution**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | [**Highlighted Contribution**: Programming language](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged) | Go |
+| ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=heroku&logoColor=white) | [Automating deployments](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:kubernetes/kubernetes) | Go |
 | ![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white) | [Cross-platform application framework](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C++ |
 | ![Brew](https://img.shields.io/badge/-Brew-FBB040?logo=homebrew&logoColor=white) | [Package manager for macOS](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Homebrew/brew) | Ruby |
 | ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white) | [CLI for Heroku](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:heroku/heroku-apps) | JavaScript |
