@@ -47,7 +47,6 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-89e051?logo=zsh&logoColor=black) | [Framework for Zsh configuration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:ohmyzsh/ohmyzsh) | Shell |
 | ![Gvm](https://img.shields.io/badge/-Gvm-89e051?logo=gnu-bash&logoColor=black) | [Go version manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm) | Shell |
 
-
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
 Happy coding! 🚀
