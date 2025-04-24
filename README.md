@@ -14,7 +14,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 
 | Project | Description | Language |
 | --- | --- | --- |
-| ![Git](https://img.shields.io/badge/-Git-659AD2?logo=git&logoColor=white) | [**Highlighted Contribution**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C |
+| ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) | [**Highlighted Contribution**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | [**Highlighted Contribution**: Programming language](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged) | Go |
 | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-00ADD8?logo=kubernetes&logoColor=white) | [Automating deployments](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:kubernetes/kubernetes) | Go |
 | ![Elastic](https://img.shields.io/badge/-Elastic-00ADD8?logo=elasticsearch&logoColor=white) | [Client for Elasticsearch](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:elastic/go-elasticsearch) | Go |
@@ -33,15 +33,15 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Go-swish](https://img.shields.io/badge/-Go--swish-00ADD8?logo=go&logoColor=white) | [Swish payment integration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:frozzare/go-swish) | Go |
 | ![Pkcs8](https://img.shields.io/badge/-PKCS8-00ADD8?logo=go&logoColor=white) | [PKCS #8 cryptography standard implementation](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:youmark/pkcs8) | Go |
 | ![Combinations](https://img.shields.io/badge/-Combinations-00ADD8?logo=go&logoColor=white) | [Generate combinations in Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mxschmitt/golang-combinations) | Go |
-| ![Qt](https://img.shields.io/badge/-Qt-00599C?logo=qt&logoColor=white) | [Cross-platform application framework](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C++ |
-| ![qBittorrent](https://img.shields.io/badge/-qBittorrent-00599C?logo=qbittorrent&logoColor=white) | [BitTorrent client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:qbittorrent/qBittorrent) | C++ |
-| ![Sentry](https://img.shields.io/badge/-Sentry-3178c6?logo=sentry&logoColor=white) | [Wizard for setting up Sentry](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:getsentry/sentry-wizard) | TypeScript |
+| ![Qt](https://img.shields.io/badge/-Qt-f05032?logo=qt&logoColor=white) | [Cross-platform application framework](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C++ |
+| ![qBittorrent](https://img.shields.io/badge/-qBittorrent-f05032?logo=qbittorrent&logoColor=white) | [BitTorrent client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:qbittorrent/qBittorrent) | C++ |
 | ![Cassandra](https://img.shields.io/badge/-Cassandra-3776AB?logo=apache-cassandra&logoColor=white) | [Driver for Apache Cassandra](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:datastax/python-driver) | Python |
 | ![Splinter](https://img.shields.io/badge/-Splinter-3776AB?logo=python&logoColor=white) | [Browser automation tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter) | Python |
 | ![Nose](https://img.shields.io/badge/-Nose-3776AB?logo=python&logoColor=white) | [Timer plugin for Nose tests](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer) | Python |
 | ![Brew](https://img.shields.io/badge/-Brew-701516?logo=homebrew&logoColor=white) | [Package manager for macOS](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Homebrew/brew) | Ruby |
 | ![Travis](https://img.shields.io/badge/-Travis-701516?logo=travis-ci&logoColor=white) | [Documentation for CI/CD service](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:travis-ci/travis.rb) | Ruby |
 | ![Heroku](https://img.shields.io/badge/-Heroku-f7df1e?logo=heroku&logoColor=black) | [CLI for Heroku](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:heroku/heroku-apps) | JavaScript |
+| ![Sentry](https://img.shields.io/badge/-Sentry-f7df1e?logo=sentry&logoColor=black) | [Wizard for setting up Sentry](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:getsentry/sentry-wizard) | JavaScript |
 | ![Calendar](https://img.shields.io/badge/-Calendar-f7df1e?logo=google&logoColor=black) | [Chrome extension for Google Calendar](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx) | JavaScript |
 | ![Last.fm](https://img.shields.io/badge/-Last.fm-f7df1e?logo=last.fm&logoColor=black) | [Browser extension for Last.fm](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:web-scrobbler/web-scrobbler) | JavaScript |
 | ![Oh my zsh](https://img.shields.io/badge/-Oh_my_zsh-89e051?logo=zsh&logoColor=black) | [Framework for Zsh configuration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:ohmyzsh/ohmyzsh) | Shell |
