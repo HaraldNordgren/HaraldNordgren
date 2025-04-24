@@ -16,7 +16,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | --- | --- | --- |
 | ![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white) | [**Highlighted Contribution**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1) | C |
 | ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | [**Highlighted Contribution**: Programming language](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged) | Go |
-| ![Kubernetes](https://img.shields.io/badge/-Kubernetes-00ADD8?logo=kubernetes&logoColor=white) | [Automating deployments](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:kubernetes/kubernetes) | Go |
+| ![Kubernetes](https://img.shields.io/badge/-Kubernetes-00ADD8?logo=kubernetes&logoColor=white) | [Container orchestration system](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:kubernetes/kubernetes) | Go |
 | ![Elastic](https://img.shields.io/badge/-Elastic-00ADD8?logo=elasticsearch&logoColor=white) | [Client for Elasticsearch](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:elastic/go-elasticsearch) | Go |
 | ![OpenAI](https://img.shields.io/badge/-OpenAI-00ADD8?logo=openai&logoColor=white) | [Unofficial client for OpenAI](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai) | Go |
 | ![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white) | [Testing toolkit for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify) | Go |
