@@ -22,6 +22,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Testify](https://img.shields.io/badge/-Testify-00ADD8?logo=go&logoColor=white) | [Testing toolkit for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify) | Go |
 | ![Hub](https://img.shields.io/badge/-Hub-00ADD8?logo=github&logoColor=white) | [GitHub command-line tool](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mislav/hub) | Go |
 | ![Genqlient](https://img.shields.io/badge/-Genqlient-00ADD8?logo=graphql&logoColor=white) | [GraphQL client for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient) | Go |
+| ![Gqlgen](https://img.shields.io/badge/-Gqlgen-00ADD8?logo=graphql&logoColor=white) | [GraphQL server for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen) | Go |
 | ![Migrate](https://img.shields.io/badge/-Migrate-00ADD8?logo=go&logoColor=white) | [Database migrations library](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:golang-migrate/migrate) | Go |
 | ![Revenuecat](https://img.shields.io/badge/-Revenuecat-00ADD8?logo=go&logoColor=white) | [In-app subscription management](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mhemmings/revenuecat) | Go |
 | ![Docker](https://img.shields.io/badge/-Docker-00ADD8?logo=docker&logoColor=white) | [Documentation for containerization platform](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:docker/docs) | Go |
