@@ -17,7 +17,8 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ⭐ | [**Git**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                   | C          |
 | ⭐ | [**Go**: Programming language](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged)                            | Go         |
 | ⭐ | [**Kubernetes**: Container orchestration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:kubernetes/kubernetes)          | Go         |
-| ⭐| [**Homebrew**: Package manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Homebrew/brew)                      | Ruby       |
+| ⭐ | [**Homebrew**: Package manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Homebrew/brew)                      | Ruby       |
+| ⭐ | [**Qt**: Cross-platform UI](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                       | C++        |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white)          | [**Genqlient**: GraphQL client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient)                           | Go         |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white)                | [**Gqlgen**: GraphQL server](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen)                            | Go         |
 | ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white)        | [**Elasticsearch**: Go client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:elastic/go-elasticsearch)    | Go         |
@@ -35,7 +36,6 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Go-swish](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)                | [**Go-swish**: Swish payments](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:frozzare/go-swish)              | Go         |
 | ![Pkcs8](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)                       | [**PKCS8**: Security](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:youmark/pkcs8)                 | Go         |
 | ![Combinations](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)         | [**Combinations**: Generate combinations](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mxschmitt/golang-combinations)  | Go         |
-| ![Qt](https://img.shields.io/badge/--f05032?logo=qt\&logoColor=white)                             | [**Qt**: Cross-platform UI](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                       | C++        |
 | ![qBittorrent](https://img.shields.io/badge/--f05032?logo=qbittorrent\&logoColor=white)  | [**qBittorrent**: BitTorrent client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:qbittorrent/qBittorrent)             | C++        |
 | ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black)                 | [**Sentry**: Setup wizard](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:getsentry/sentry-wizard)         | TypeScript |
 | ![Heroku](https://img.shields.io/badge/--f7df1e?logo=heroku\&logoColor=black)                 | [**Heroku**: CLI for Heroku](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:heroku/heroku-apps)                     | JavaScript |
