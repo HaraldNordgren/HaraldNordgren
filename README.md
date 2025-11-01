@@ -16,7 +16,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | ⭐ | [**Git**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                   | C          |
 | ⭐ | [**Go**: Programming language](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged)                            | Go         |
-| ⭐ | [**Kubernetes**: Container orchestration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:kubernetes/kubernetes)          | Go         |
+| ⭐ | [**Kubernetes**: Container orchestration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)          | Go         |
 | ⭐ | [**Homebrew**: Package manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Homebrew/brew)                      | Ruby       |
 | ⭐ | [**Qt**: Cross-platform UI](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                       | C++        |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white)          | [**Genqlient**: GraphQL client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient)                           | Go         |
