@@ -19,7 +19,7 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ⭐ | [**Kubernetes**: Container orchestration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)          | Go         |
 | ⭐ | [**Homebrew**: Package manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:Homebrew)                      | Ruby       |
 | ⭐ | [**Qt**: Cross-platform UI](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                       | C++        |
-| ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white)          | [**Genqlient**: GraphQL client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:Khan/genqlient)                           | Go         |
+| ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white)          | [**Genqlient**: GraphQL client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient)                           | Go         |
 | ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white)        | [**Elasticsearch**: Go client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:elastic)    | Go         |
 | ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)                   | [**Testify**: Testing toolkit](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify)                   | Go         |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white)                | [**Gqlgen**: GraphQL server](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen)                            | Go         |
