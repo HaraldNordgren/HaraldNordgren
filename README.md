@@ -37,10 +37,10 @@ I'm passionate about open source and have contributed to a variety of projects. 
 | ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black)                     | [**Gvm**: Go version manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm)                                | Shell      |
 | ![Oh my zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black)              | [**Oh My Zsh**: Zsh config framework](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:ohmyzsh)                    | Shell      |
 | ![qBittorrent](https://img.shields.io/badge/--f05032?logo=qbittorrent\&logoColor=white)  | [**qBittorrent**: BitTorrent client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)             | C++        |
-| ![Travis](https://img.shields.io/badge/--701516?logo=travis-ci\&logoColor=white)              | [**Travis**: CI/CD docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:travis-ci)                          | Ruby       |
 | ![Cassandra](https://img.shields.io/badge/--3776AB?logo=apache-cassandra\&logoColor=white) | [**Cassandra**: Cassandra Python driver](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:datastax/python-driver)             | Python     |
 | ![Splinter](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white)             | [**Splinter**: Browser automation](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter)                    | Python     |
 | ![Nose](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white)                     | [**Nose**: Test timing](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)              | Python     |
+| ![Travis](https://img.shields.io/badge/--701516?logo=travis-ci\&logoColor=white)              | [**Travis**: CI/CD docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:travis-ci)                          | Ruby       |
 
 Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
 
