@@ -1,48 +1,109 @@
-## About Me
+# 👋 Hi, I’m **Harald Nordgren**
 
-Hello! I'm Harald Nordgren, a seasoned coder with over 20 years of experience. My coding journey began in the early 2000s and over the years I've honed my skills in **Go**, **Python**, **JavaScript**, **C/C++** and **Bash**.
+### 🧭 Engineering Leader • ⚙️ Systems Programmer • 🐹 Go & DevOps Enthusiast
 
-## Current Role
+I’m a seasoned engineer with **20+ years of hands-on software experience**, building everything from compilers and infrastructure tooling to distributed systems and developer platforms.
 
-👨🏼‍💻 **Head of Engineering at Diet Doctor**
+I love elegant code, strong engineering cultures, and open source.
 
-At Diet Doctor, I lead engineering initiatives aimed at promoting healthier eating habits and fostering positive health outcomes.
+---
 
-## Open Source Contributions
+## 🚀 **Current Role — Head of Engineering @ Diet Doctor**
 
-I'm passionate about open source and have contributed to a variety of projects. Here are some of my contributions:
+At **Diet Doctor**, I lead engineering initiatives that help millions of people improve their health through better food.
+My focus areas include:
 
-|                                                                                              | Description                                                                                                                               | Language   |
-| --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| ⭐ | [**Git**: Version control system](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                   | C          |
-| ⭐ | [**Go**: Programming language](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged)                            | Go         |
-| ⭐ | [**Kubernetes**: Container orchestration](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)          | Go         |
-| ⭐ | [**Homebrew**: Package manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:Homebrew)                      | Ruby       |
-| ⭐ | [**Qt**: Cross-platform UI](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                       | C++        |
-| ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white)          | [**Genqlient**: GraphQL client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient)                           | Go         |
-| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white)        | [**Elasticsearch**: Go client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:elastic)    | Go         |
-| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)                   | [**Testify**: Testing toolkit](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify)                   | Go         |
-| ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white)                | [**Gqlgen**: GraphQL server](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen)                            | Go         |
-| ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white)                       | [**GitHub**: Hosting platform](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:github+repo:mislav/hub)                                    | Go         |
-| ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=openai\&logoColor=white)                 | [**Openai**: Unofficial OpenAI client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)         | Go         |
-| ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)                   | [**Migrate**: Database migrations](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golang-migrate)        | Go         |
-| ![Golangci-lint](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)             | [**Golangci**: Linters for Go](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golangci)    | Go         |
-| ![Revenuecat](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)             | [**Revenuecat**: In-app subscriptions](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)    | Go         |
-| ![Docker](https://img.shields.io/badge/--00ADD8?logo=docker\&logoColor=white)                 | [**Docker**: Platform docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:docker)                   | Go         |
-| ![Moq](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white)                           | [**Moq**: Mocking framework](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:matryer/moq)                                 | Go         |
-| ![Amplitude](https://img.shields.io/badge/--f7df1e?logo=typescript\&logoColor=black)                 | [**Amplitude**: React Native client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:amplitude)         | TypeScript |
-| ![Heroku](https://img.shields.io/badge/--f7df1e?logo=heroku\&logoColor=black)                 | [**Heroku**: CLI for Heroku](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:heroku)                     | JavaScript |
-| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black)                 | [**Sentry**: Setup wizard](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:getsentry)         | TypeScript |
-| ![Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black)             | [**Google calendar**: Chrome extension](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx) | JavaScript |
-| ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black)              | [**Web-scrobbler**: Last.fm extension](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:web-scrobbler)       | JavaScript |
-| ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black)                     | [**Gvm**: Go version manager](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm)                                | Shell      |
-| ![Oh my zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black)              | [**Oh My Zsh**: Zsh config framework](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:ohmyzsh)                    | Shell      |
-| ![Travis](https://img.shields.io/badge/--701516?logo=travis-ci\&logoColor=white)              | [**Travis**: CI/CD docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:travis-ci)                          | Ruby       |
-| ![qBittorrent](https://img.shields.io/badge/--f05032?logo=qbittorrent\&logoColor=white)  | [**qBittorrent**: BitTorrent client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)             | C++        |
-| ![Cassandra](https://img.shields.io/badge/--3776AB?logo=apache-cassandra\&logoColor=white) | [**Cassandra**: Cassandra Python driver](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:datastax/python-driver)             | Python     |
-| ![Splinter](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white)             | [**Splinter**: Browser automation](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter)                    | Python     |
-| ![Nose](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white)                     | [**Nose**: Test timing](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)              | Python     |
+* Developer experience & engineering velocity
+* Scalable backend systems
+* Product-aligned technical strategy
+* Mentoring engineers & building high-trust teams
 
-Explore all my open source contributions [here](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+).
+---
 
-Happy coding! 🚀
+## 🛠️ **Tech I Love Working With**
+
+**Languages**
+`Go` · `Python` · `JavaScript/TypeScript` · `C/C++` · `Bash`
+
+**Domains**
+☸️ Platform engineering · ⚡ Performance · 🔧 Tooling · 🧪 Testing · ☁️ Cloud · 🕸️ Distributed Systems
+
+---
+
+## 🌐 **Highlighted Open Source Contributions**
+
+Here are some of the notable projects I’ve contributed to over the years:
+
+### 🏆 Major Ecosystem Projects
+
+| Project                                                                                                             | Description                 | Language |
+| ------------------------------------------------------------------------------------------------------------------- | --------------------------- | -------- |
+| ⭐ [**Git**](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                   | Core version control system | C        |
+| ⭐ [**Go**](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged)                          | Go programming language     | Go       |
+| ⭐ [**Kubernetes**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs) | Container orchestration     | Go       |
+| ⭐ [**Homebrew**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:Homebrew)                          | macOS package manager       | Ruby     |
+| ⭐ [**Qt**](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)                         | Cross-platform UI toolkit   | C++      |
+
+---
+
+### 🧰 Developer Tools & Infrastructure
+
+| Project                                                                                                                                                                                      | Description              | Lang |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ---- |
+| ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) [**Genqlient**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient)            | GraphQL client           | Go   |
+| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) [**Elasticsearch Go client**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:elastic) | Search infra             | Go   |
+| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) [**Testify**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify)                   | Testing toolkit          | Go   |
+| ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) [**Gqlgen**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen)                | GraphQL server           | Go   |
+| ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) [**GitHub / Hub**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:github+repo:mislav/hub)     | GitHub tooling           | Go   |
+| ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) [**go-openai**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)        | Unofficial OpenAI client | Go   |
+| ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) [**golang-migrate**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golang-migrate)              | DB migrations            | Go   |
+| ![Golangci-lint](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) [**Golangci-lint**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golangci)               | Go linters               | Go   |
+| ![Moq](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) [**Moq**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:matryer/moq)                                | Mocking framework        | Go   |
+
+---
+
+### 📱 Mobile, Web & Product Tooling
+
+| Project                                                                                                                                                                                                 | Description                | Lang       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | ---------- |
+| ![Amplitude](https://img.shields.io/badge/--f7df1e?logo=typescript\&logoColor=black) [**Amplitude**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:amplitude)                         | React Native client        | TypeScript |
+| ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) [**Heroku CLI**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:heroku)                                  | Cloud tooling              | JavaScript |
+| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) [**Sentry Setup Wizard**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:getsentry)                      | Error tracking             | TypeScript |
+| ![Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) [**Google Calendar CRX**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx) | Chrome extension           | JavaScript |
+| ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black) [**Web-scrobbler**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:web-scrobbler)                      | Music scrobbling extension | JavaScript |
+
+---
+
+### 🐚 Shell · 🧪 CI · 🧩 Misc
+
+| Project                                                                                                                                                                                                          | Description        | Lang   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------ |
+| ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) [**Gvm**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm)                                              | Go version manager | Shell  |
+| ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) [**Oh My Zsh**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:ohmyzsh)                                           | Zsh framework      | Shell  |
+| ![Travis](https://img.shields.io/badge/--701516?logo=travis-ci\&logoColor=white) [**Travis CI**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:travis-ci)                                      | CI/CD docs         | Ruby   |
+| ![qBittorrent](https://img.shields.io/badge/--f05032?logo=qbittorrent\&logoColor=white) [**qBittorrent**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)                           | P2P client         | C++    |
+| ![Cassandra](https://img.shields.io/badge/--3776AB?logo=apache-cassandra\&logoColor=white) [**Cassandra Python Driver**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:datastax/python-driver) | DB driver          | Python |
+| ![Splinter](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white) [**Splinter**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter)                               | Browser automation | Python |
+| ![Nose](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white) [**Nose**](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)                                   | Test timing        | Python |
+
+---
+
+## 🔎 Explore All Contributions
+
+If you want the full picture of my OSS work, here’s the complete list:
+
+👉 **[https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged)**
+
+---
+
+## 📫 Connect
+
+💼 **LinkedIn:** *add your link*
+🐦 **Twitter/X:** *optional*
+🌐 **Website:** *optional*
+
+---
+
+### ✨ *Happy coding!*
+
+Thanks for stopping by — feel free to reach out or explore my repos.
