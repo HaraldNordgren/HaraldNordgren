@@ -102,11 +102,4 @@ Below are some selected contributions:
 ## 🔍 Explore All Contributions
 
 Browse the full list of my merged pull requests:
-👉 **[https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged)**
-
----
-
-## 🙌 Thanks for stopping by
-
-If you enjoy open source, developer tools, or clean API design, feel free to connect or follow along.
-Happy coding! 🚀
+👉 **[link](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)**
