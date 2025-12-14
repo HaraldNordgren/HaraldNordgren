@@ -20,16 +20,6 @@ My focus areas include:
 
 ---
 
-## 🛠️ **Tech I Love Working With**
-
-**Languages**
-`Go` · `Python` · `JavaScript/TypeScript` · `C/C++` · `Bash`
-
-**Domains**
-☸️ Platform engineering · ⚡ Performance · 🔧 Tooling · 🧪 Testing · ☁️ Cloud · 🕸️ Distributed Systems
-
----
-
 ## 🛠️ Open Source Highlights
 
 I've contributed to a wide array of open-source projects — from core tools millions use daily to specialized libraries powering modern developer workflows.
@@ -99,7 +89,6 @@ Below are some selected contributions:
 
 ---
 
-## 🔍 Explore All Contributions
+## Explore Further
 
-Browse the full list of my merged pull requests:
-👉 **[link](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)**
+👉 **[All merged pull requests on GitHub](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)**
