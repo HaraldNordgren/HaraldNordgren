@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Harald Nordgren**
+# 👋 Hi, I’m Harald Nordgren
 
 ### 🧭 Engineering Leader • ⚙️ Systems Programmer • 🐹 Go & DevOps Enthusiast
 
@@ -8,7 +8,7 @@ I love elegant code, strong engineering cultures, and open source.
 
 ---
 
-## 🚀 **Current Role — Head of Engineering @ Diet Doctor**
+## 🚀 Current Role — Head of Engineering @ Diet Doctor
 
 At **Diet Doctor**, I lead engineering initiatives that help millions of people improve their health through better food.
 My focus areas include:
