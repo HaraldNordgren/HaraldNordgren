@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Harald Nordgren
-
-### 🧭 Engineering Leader • ⚙️ Systems Programmer • 🐹 Go & DevOps Enthusiast
+# 🧭 Engineering Leader • ⚙️ Systems Programmer • 🐹 Go & DevOps Enthusiast
 
 I’m a seasoned engineer with **20+ years of hands-on software experience**, building everything from compilers and infrastructure tooling to distributed systems and developer platforms.
 
