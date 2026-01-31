@@ -30,8 +30,8 @@ Below are some selected contributions:
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
 | ⭐       | **[Git](https://git.kernel.org/pub/scm/git/git.git/log/?h=seen&qt=author&q=HaraldNordgren&showmsg=1)**: Version control system                    | C        |
 | ⭐       | **[Go](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged)**: The Go programming language                      | Go       |
-| ⭐       | **[Kubernetes](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go       |
 | ⭐       | **[Homebrew](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:Homebrew)**: Package manager                                  | Ruby     |
+| ⭐       | **[Kubernetes](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go       |
 | ⭐       | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)**: Cross-platform UI toolkit                       | C++      |
 
 ---
