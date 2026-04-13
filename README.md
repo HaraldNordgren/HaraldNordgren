@@ -29,7 +29,7 @@ Some examples:
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| ⭐ | **[Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren)**: Version control system | C |
+| ⭐ | **[Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=author&q=HaraldNordgren&h=seen)**: Version control system | C |
 | ⭐ | **[Go](https://go-review.googlesource.com/q/author:haraldnordgren@gmail.com+is:merged)**: Programming language | Go |
 | ⭐ | **[Homebrew](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:Homebrew)**: Package manager | Ruby |
 | ⭐ | **[Kubernetes](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go |
