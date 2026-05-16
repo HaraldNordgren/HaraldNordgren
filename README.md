@@ -75,7 +75,7 @@ Some examples:
 | Project | Description | Language |
 | ------- | ----------- | -------- |
 | ![qBittorrent](https://img.shields.io/badge/--f05032?logo=qbittorrent\&logoColor=white) | **[qBittorrent](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
-| ![Cassandra](https://img.shields.io/badge/--3776AB?logo=apache-cassandra\&logoColor=white) | **[Cassandra Python driver](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:datastax/python-driver)** | Python |
+| ![Cassandra](https://img.shields.io/badge/--3776AB?logo=apache-cassandra\&logoColor=white) | **[Cassandra Python driver](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Python |
 | ![Splinter](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Python |
 | ![Nose](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white) | **[Nose Timer](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)** | Python |
 
