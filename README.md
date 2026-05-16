@@ -68,11 +68,11 @@ Some examples:
 | ------- | ----------- | -------- |
 | ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell |
 | ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm)**: Go version manager | Shell |
-| ![qBittorrent](https://img.shields.io/badge/--89e051?logo=qbittorrent\&logoColor=white) | **[qBittorrent](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
-| ![Travis](https://img.shields.io/badge/--89e051?logo=travis-ci\&logoColor=white) | **[Travis CI Docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:travis-ci)** | Ruby |
-| ![Cassandra](https://img.shields.io/badge/--89e051?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)**: Python client | Python |
-| ![Splinter](https://img.shields.io/badge/--89e051?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Python |
-| ![Nose](https://img.shields.io/badge/--89e051?logo=python\&logoColor=white) | **[Nose Timer](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)** | Python |
+| ![qBittorrent](https://img.shields.io/badge/--89e051?logo=qbittorrent\&logoColor=black) | **[qBittorrent](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
+| ![Travis](https://img.shields.io/badge/--89e051?logo=travis-ci\&logoColor=black) | **[Travis CI Docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:travis-ci)** | Ruby |
+| ![Cassandra](https://img.shields.io/badge/--89e051?logo=apache-cassandra\&logoColor=black) | **[Cassandra](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)**: Python client | Python |
+| ![Splinter](https://img.shields.io/badge/--89e051?logo=python\&logoColor=black) | **[Splinter](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Python |
+| ![Nose](https://img.shields.io/badge/--89e051?logo=python\&logoColor=black) | **[Nose Timer](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)** | Python |
 
 ---
 
