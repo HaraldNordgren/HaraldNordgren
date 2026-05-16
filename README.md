@@ -44,7 +44,7 @@ Some examples:
 | ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen)**: GraphQL server | Go |
 | ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub tooling](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:github+repo:mislav/hub)** | Go |
-| ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[go-openai](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)**: Unofficial OpenAI client | Go |
+| ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Go-openai](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)**: Unofficial OpenAI client | Go |
 | ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golang-migrate)**: Database migrations | Go |
 | ![Golangci](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Golangci-lint](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golangci)** | Go |
 | ![Revenuecat](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Revenuecat](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)** | Go |
