@@ -62,7 +62,7 @@ Some examples:
 | ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar Chrome Extension](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** | JavaScript |
 | ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black) | **[Web-scrobbler](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:web-scrobbler)** | JavaScript |
 
-### Mics
+### Misc
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
