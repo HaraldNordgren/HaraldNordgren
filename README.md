@@ -66,10 +66,10 @@ Some examples:
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
+| ![qBittorrent](https://img.shields.io/badge/--f05032?logo=qbittorrent\&logoColor=white) | **[qBittorrent](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
 | ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell |
 | ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm)**: Go version manager | Shell |
 | ![Travis](https://img.shields.io/badge/--701516?logo=travis-ci\&logoColor=white) | **[Travis CI Docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:travis-ci)** | Ruby |
-| ![qBittorrent](https://img.shields.io/badge/--f05032?logo=qbittorrent\&logoColor=white) | **[qBittorrent](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
 | ![Cassandra](https://img.shields.io/badge/--3776AB?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)**: Python client | Python |
 | ![Splinter](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Python |
 | ![Nose](https://img.shields.io/badge/--3776AB?logo=python\&logoColor=white) | **[Nose Timer](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)** | Python |
