@@ -39,15 +39,15 @@ Some examples:
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
+| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient)**: GraphQL client | Go |
 | ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch Go client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:elastic)** | Go |
-| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen)**: GraphQL server | Go |
-| ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub tooling](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:github+repo:mislav/hub)** | Go |
-| ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Go-openai](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)**: Unofficial OpenAI client | Go |
+| ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:github+repo:mislav/hub)** | Go |
 | ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golang-migrate)**: Database migrations | Go |
-| ![Golangci](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Golangci-lint](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golangci)** | Go |
 | ![Revenuecat](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Revenuecat](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)** | Go |
+| ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Go-openai](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)**: Unofficial OpenAI client | Go |
+| ![Golangci](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Golangci-lint](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golangci)** | Go |
 | ![Docker](https://img.shields.io/badge/--00ADD8?logo=docker\&logoColor=white) | **[Docker Docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:docker)** | Go |
 | ![Moq](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Moq](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:matryer/moq)** | Go |
 
