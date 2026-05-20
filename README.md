@@ -41,7 +41,7 @@ Some examples:
 | ------- | ----------- | -------- |
 | ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient)**: GraphQL client | Go |
-| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch Go client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:elastic)** | Go |
+| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:elastic)**: Go client | Go |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen)**: GraphQL server | Go |
 | ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:github+repo:mislav/hub)** | Go |
 | ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golang-migrate)**: Database migrations | Go |
