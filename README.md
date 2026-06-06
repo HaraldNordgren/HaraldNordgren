@@ -25,7 +25,7 @@ I’ve contributed to a range of open-source projects, from widely used develope
 
 Some examples:
 
-### Larger projects
+### Highlighted projects
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
