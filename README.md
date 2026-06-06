@@ -58,8 +58,8 @@ Some examples:
 | ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[Git Git Gadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | TypeScript |
 | ![Amplitude](https://img.shields.io/badge/--f7df1e?logo=typescript\&logoColor=black) | **[Amplitude](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)**: React Native client | TypeScript |
 | ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)** | JavaScript |
-| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry Wizard](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** | TypeScript |
-| ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar Chrome Extension](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** | JavaScript |
+| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** | TypeScript |
+| ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)**: Chrome extension | JavaScript |
 | ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black) | **[Web-scrobbler](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | JavaScript |
 
 ### C / C++
