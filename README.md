@@ -66,7 +66,7 @@ Some examples:
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| ⭐ | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)**: Cross-platform UI toolkit | C++ |
+| ![Qt](https://img.shields.io/badge/--89e051?logo=qt\&logoColor=black) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)**: Cross-platform UI toolkit | C++ |
 | ![qBittorrent](https://img.shields.io/badge/--89e051?logo=qbittorrent\&logoColor=black) | **[qBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
 
 ### Misc
