@@ -8,7 +8,7 @@ I care about clear code, practical systems design, healthy engineering teams, an
 
 ## Head of Engineering, Diet Doctor
 
-At [Diet Doctor](https://www.dietdoctor.com/), I lead engineering work across product and platform.
+At [Hava](https://www.hava.co/), I lead engineering work across product and platform.
 
 My work includes:
 
