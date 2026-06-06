@@ -11,7 +11,7 @@ I care about clear code, pragmatic systems design, strong engineering cultures, 
 At [Hava](https://www.hava.co/), I lead engineering across product and platform. My work includes:
 
 - improving developer experience and delivery speed
-- building and maintaining backend systems
+- building and maintaining backend and frontend systems
 - aligning technical decisions with product goals
 - mentoring engineers and supporting team growth
 - creating healthy, sustainable engineering practices
