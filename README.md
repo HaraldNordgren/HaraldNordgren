@@ -55,7 +55,7 @@ Some examples:
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)**: command-line interface | JavaScript |
+| ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)**: CLI | JavaScript |
 | ![Amplitude](https://img.shields.io/badge/--f7df1e?logo=typescript\&logoColor=black) | **[Amplitude](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)**: React Native client | TypeScript |
 | ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** | TypeScript |
 | ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[Git Git Gadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | TypeScript |
