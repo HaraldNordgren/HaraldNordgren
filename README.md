@@ -60,7 +60,7 @@ Some examples:
 | ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)** | JavaScript |
 | ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** | TypeScript |
 | ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)**: Chrome extension | JavaScript |
-| ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black) | **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | JavaScript |
+| ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black) | **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)**: Web scrobbler | JavaScript |
 
 ### C / C++
 
