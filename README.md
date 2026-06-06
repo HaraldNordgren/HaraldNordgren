@@ -6,9 +6,7 @@ I’ve been working in software for more than 20 years, with a background that i
 
 ## Head of Engineering, Diet Doctor
 
-At [Hava](https://www.hava.co/), I lead engineering work across product and platform.
-
-My work includes:
+At [Hava](https://www.hava.co/), I lead engineering work across product and platform. My work includes:
 
 - improving developer experience and delivery speed
 - building and maintaining backend systems
