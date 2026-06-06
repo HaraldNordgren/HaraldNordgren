@@ -1,23 +1,26 @@
 ## Engineering leader and systems programmer
 
-I’ve been working in software for more than 20 years, with a background that includes compilers, infrastructure tooling, distributed systems, and developer platforms. I care about clear code, practical systems design, healthy engineering teams, and open source.
+I’m an engineering leader and systems programmer with more than 20 years of experience across compilers, infrastructure tooling, distributed systems, developer platforms, and product engineering.
+
+I care about clear code, pragmatic systems design, strong engineering cultures, and open source.
 
 ---
 
-## Head of Engineering, Diet Doctor
+## Head of Engineering, Hava
 
-At [Hava](https://www.hava.co/), I lead engineering work across product and platform. My work includes:
+At [Hava](https://www.hava.co/), I lead engineering across product and platform. My work includes:
 
 - improving developer experience and delivery speed
 - building and maintaining backend systems
-- aligning technical decisions with product needs
-- mentoring engineers and supporting team development
+- aligning technical decisions with product goals
+- mentoring engineers and supporting team growth
+- creating healthy, sustainable engineering practices
 
 ---
 
 ## Open source
 
-I’ve contributed to a range of open-source projects, from widely used developer tools to smaller libraries and docs. Some examples:
+I’ve contributed to a wide range of open-source projects, from core developer tools and language ecosystems to smaller libraries, integrations, and documentation.
 
 ### Highlights
 
