@@ -26,13 +26,12 @@ I’ve contributed to a range of open-source projects, from widely used develope
 | ⭐ | **[Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren&showmsg=1)**: Version control system | C |
 | ⭐ | **[Go](https://go-review.googlesource.com/q/is:merged+Harald+Nordgren)**: Programming language | Go |
 | ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: MacOS package manager | Ruby |
-| ⭐ | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
-
 
 ### Go
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
+| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
 | ![Kubernetes](https://img.shields.io/badge/--00ADD8?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go |
 | ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)**: Go client | Go |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)**: GraphQL client | Go |
