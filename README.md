@@ -33,7 +33,7 @@ Some examples:
 | ⭐ | **[Go](https://go-review.googlesource.com/q/is:merged+Harald+Nordgren)**: Programming language | Go |
 | ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: Package manager | Ruby |
 | ⭐ | **[Kubernetes](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go |
-| ⭐ | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)**: Cross-platform UI toolkit | C++ |
+
 
 ### Go
 
@@ -62,13 +62,19 @@ Some examples:
 | ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar Chrome Extension](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** | JavaScript |
 | ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black) | **[Web-scrobbler](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | JavaScript |
 
+### C / C++
+
+| Project | Description | Language |
+| ------- | ----------- | -------- |
+| ⭐ | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)**: Cross-platform UI toolkit | C++ |
+| ![qBittorrent](https://img.shields.io/badge/--89e051?logo=qbittorrent\&logoColor=black) | **[qBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
+
 ### Misc
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
 | ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell |
 | ![Cassandra](https://img.shields.io/badge/--89e051?logo=apache-cassandra\&logoColor=black) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)**: Python client | Python |
-| ![qBittorrent](https://img.shields.io/badge/--89e051?logo=qbittorrent\&logoColor=black) | **[qBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
 | ![Travis](https://img.shields.io/badge/--89e051?logo=travis-ci\&logoColor=black) | **[Travis CI Docs](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:travis-ci)** | Ruby |
 | ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)**: Go version manager | Shell |
 | ![Splinter](https://img.shields.io/badge/--89e051?logo=python\&logoColor=black) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Python |
