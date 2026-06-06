@@ -14,7 +14,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ------- | ----------- | -------- |
 | ⭐ | **[Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren&showmsg=1)**: Core developer infrastructure | C |
 | ⭐ | **[Go](https://go-review.googlesource.com/q/is:merged+Harald+Nordgren)**: Language and toolchain | Go |
-| ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: macOS package ecosystem | Ruby |
+| ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: MacOS package ecosystem | Ruby |
 
 ### Golang
 
