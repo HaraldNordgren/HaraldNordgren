@@ -1,8 +1,6 @@
 ## Engineering leader and systems programmer
 
-I’ve been working in software for more than 20 years, with a background that includes compilers, infrastructure tooling, distributed systems, and developer platforms.
-
-I care about clear code, practical systems design, healthy engineering teams, and open source.
+I’ve been working in software for more than 20 years, with a background that includes compilers, infrastructure tooling, distributed systems, and developer platforms. I care about clear code, practical systems design, healthy engineering teams, and open source.
 
 ---
 
