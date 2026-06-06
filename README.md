@@ -32,7 +32,6 @@ Some examples:
 | ⭐ | **[Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren&showmsg=1)**: Version control system | C |
 | ⭐ | **[Go](https://go-review.googlesource.com/q/is:merged+Harald+Nordgren)**: Programming language | Go |
 | ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: Package manager | Ruby |
-| ⭐ | **[Kubernetes](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go |
 
 
 ### Go
@@ -40,6 +39,7 @@ Some examples:
 | Project | Description | Language |
 | ------- | ----------- | -------- |
 | ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
+| [Kubernetes](https://img.shields.io/badge/--00ADD8?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)**: GraphQL client | Go |
 | ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)**: Go client | Go |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)**: GraphQL server | Go |
