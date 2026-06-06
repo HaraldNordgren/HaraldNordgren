@@ -30,7 +30,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Revenuecat](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Revenuecat](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)**: Subscription API client | Go |
 | ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Go-openai](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)**: OpenAI API client | Go |
 | ![Golangci](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Golangci-lint](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golangci)**: Go static analysis | Go |
-| ![Docker](https://img.shields.io/badge/--00ADD8?logo=docker\&logoColor=white) | **[Docker Docs](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:docker)**: Container developer docs | Go |
+| ![Docker](https://img.shields.io/badge/--00ADD8?logo=docker\&logoColor=white) | **[Docker](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:docker)**: Container developer docs | Go |
 | ![Moq](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)**: Mock generation tooling | Go |
 
 ### JavaScript / TypeScript
@@ -55,8 +55,8 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)**: Shell productivity framework | Shell |
 | ![Cassandra](https://img.shields.io/badge/--89e051?logo=apache-cassandra\&logoColor=black) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)**: Distributed database client | Python |
+| ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)**: Shell productivity framework | Shell |
 | ![Travis](https://img.shields.io/badge/--89e051?logo=travis-ci\&logoColor=black) | **[Travis CI Docs](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:travis-ci)**: CI/CD documentation | Ruby |
 | ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)**: Go version manager | Shell |
 | ![Splinter](https://img.shields.io/badge/--89e051?logo=python\&logoColor=black) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)**: Browser testing framework | Python |
