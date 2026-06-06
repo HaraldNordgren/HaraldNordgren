@@ -17,9 +17,7 @@ At [Hava](https://www.hava.co/), I lead engineering work across product and plat
 
 ## Open source
 
-I’ve contributed to a range of open-source projects, from widely used developer tools to smaller libraries and docs.
-
-Some examples:
+I’ve contributed to a range of open-source projects, from widely used developer tools to smaller libraries and docs. Some examples:
 
 ### Highlights
 
