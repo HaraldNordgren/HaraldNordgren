@@ -31,7 +31,7 @@ Some examples:
 | ------- | ----------- | -------- |
 | ⭐ | **[Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren&showmsg=1)**: Version control system | C |
 | ⭐ | **[Go](https://go-review.googlesource.com/q/is:merged+Harald+Nordgren)**: Programming language | Go |
-| ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: Macos package manager | Ruby |
+| ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: MacOS package manager | Ruby |
 | ⭐ | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
 
 
