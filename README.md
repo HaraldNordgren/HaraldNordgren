@@ -31,48 +31,48 @@ Some examples:
 | ------- | ----------- | -------- |
 | ⭐ | **[Git](https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren&showmsg=1)**: Version control system | C |
 | ⭐ | **[Go](https://go-review.googlesource.com/q/is:merged+Harald+Nordgren)**: Programming language | Go |
-| ⭐ | **[Homebrew](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:Homebrew)**: Package manager | Ruby |
-| ⭐ | **[Kubernetes](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go |
+| ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: Package manager | Ruby |
+| ⭐ | **[Kubernetes](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Container orchestration | Go |
 | ⭐ | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)**: Cross-platform UI toolkit | C++ |
 
 ### Go
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
-| ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:Khan/genqlient)**: GraphQL client | Go |
-| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:elastic)**: Go client | Go |
-| ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:99designs/gqlgen)**: GraphQL server | Go |
-| ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:github+repo:mislav/hub)** | Go |
-| ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golang-migrate)**: Database migrations | Go |
-| ![Revenuecat](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Revenuecat](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)** | Go |
-| ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Go-openai](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)**: Unofficial OpenAI client | Go |
-| ![Golangci](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Golangci-lint](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:golangci)** | Go |
-| ![Docker](https://img.shields.io/badge/--00ADD8?logo=docker\&logoColor=white) | **[Docker Docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:docker)** | Go |
-| ![Moq](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Moq](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:matryer/moq)** | Go |
+| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)**: Testing toolkit | Go |
+| ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)**: GraphQL client | Go |
+| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)**: Go client | Go |
+| ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)**: GraphQL server | Go |
+| ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:github+repo:mislav/hub)** | Go |
+| ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)**: Database migrations | Go |
+| ![Revenuecat](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Revenuecat](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)** | Go |
+| ![OpenAI](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Go-openai](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)**: Unofficial OpenAI client | Go |
+| ![Golangci](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Golangci-lint](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golangci)** | Go |
+| ![Docker](https://img.shields.io/badge/--00ADD8?logo=docker\&logoColor=white) | **[Docker Docs](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:docker)** | Go |
+| ![Moq](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | Go |
 
 ### JavaScript / TypeScript
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[Git Git Gadget](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:gitgitgadget)** | TypeScript |
-| ![Amplitude](https://img.shields.io/badge/--f7df1e?logo=typescript\&logoColor=black) | **[Amplitude RN Client](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:amplitude)** | TypeScript |
-| ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku CLI](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:heroku)** | JavaScript |
-| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry Wizard](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:getsentry)** | TypeScript |
-| ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar Chrome Extension](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** | JavaScript |
-| ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black) | **[Web-scrobbler](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:web-scrobbler)** | JavaScript |
+| ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[Git Git Gadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | TypeScript |
+| ![Amplitude](https://img.shields.io/badge/--f7df1e?logo=typescript\&logoColor=black) | **[Amplitude RN Client](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)** | TypeScript |
+| ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku CLI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)** | JavaScript |
+| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry Wizard](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** | TypeScript |
+| ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar Chrome Extension](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** | JavaScript |
+| ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=last.fm\&logoColor=black) | **[Web-scrobbler](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | JavaScript |
 
 ### Misc
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
-| ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell |
-| ![Cassandra](https://img.shields.io/badge/--89e051?logo=apache-cassandra\&logoColor=black) | **[Cassandra](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)**: Python client | Python |
-| ![qBittorrent](https://img.shields.io/badge/--89e051?logo=qbittorrent\&logoColor=black) | **[qBittorrent](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
-| ![Travis](https://img.shields.io/badge/--89e051?logo=travis-ci\&logoColor=black) | **[Travis CI Docs](https://github.com/pulls?q=author:HaraldNordgren+is:merged+user:travis-ci)** | Ruby |
-| ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:moovweb/gvm)**: Go version manager | Shell |
-| ![Splinter](https://img.shields.io/badge/--89e051?logo=python\&logoColor=black) | **[Splinter](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Python |
-| ![Nose](https://img.shields.io/badge/--89e051?logo=python\&logoColor=black) | **[Nose Timer](https://github.com/pulls?q=author:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)** | Python |
+| ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell |
+| ![Cassandra](https://img.shields.io/badge/--89e051?logo=apache-cassandra\&logoColor=black) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)**: Python client | Python |
+| ![qBittorrent](https://img.shields.io/badge/--89e051?logo=qbittorrent\&logoColor=black) | **[qBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | C++ |
+| ![Travis](https://img.shields.io/badge/--89e051?logo=travis-ci\&logoColor=black) | **[Travis CI Docs](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:travis-ci)** | Ruby |
+| ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)**: Go version manager | Shell |
+| ![Splinter](https://img.shields.io/badge/--89e051?logo=python\&logoColor=black) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Python |
+| ![Nose](https://img.shields.io/badge/--89e051?logo=python\&logoColor=black) | **[Nose Timer](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)** | Python |
 
 ---
 
