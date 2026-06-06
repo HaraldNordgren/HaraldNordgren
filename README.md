@@ -16,7 +16,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ⭐ | **[Go](https://go-review.googlesource.com/q/is:merged+Harald+Nordgren)**: Language and toolchain | Go |
 | ⭐ | **[Homebrew](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew)**: macOS package ecosystem | Ruby |
 
-### Go
+### Golang
 
 | Project | Description | Language |
 | ------- | ----------- | -------- |
