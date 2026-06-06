@@ -1,13 +1,12 @@
 # Harald Nordgren
 
-## Head of Engineering @ [Hava](https://www.hava.co/)
+## Head of Engineering at [Hava](https://www.hava.co/)
 
-I’m an engineering leader and systems programmer with 20+ years of experience. At Hava, I lead engineering across product and platform.
-
+I’m an engineering leader and systems programmer with 20+ years of experience building developer tools, infrastructure, cloud services, and product platforms. At Hava, I lead engineering across product and platform, focusing on technical direction, architecture, delivery, reliability, and team development.
 
 ## Open source
 
-I’ve contributed to a broad range of open-source projects:
+I contribute to open-source projects across developer infrastructure, cloud-native tooling, programming languages, testing frameworks, and platform ecosystems.
 
 ### Highlights
 
