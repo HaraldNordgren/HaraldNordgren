@@ -78,4 +78,4 @@ Some examples:
 
 ## More
 
-[All merged pull requests on GitHub](https://github.com/pulls?q=author%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)
+[All merged pull requests on GitHub](https://github.com/pulls?q=involves%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)
