@@ -21,7 +21,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | Project | Description | Language |
 | ------- | ----------- | -------- |
 | ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)**: Go testing toolkit | Go |
-| ![Kubernetes](https://img.shields.io/badge/--00ADD8?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:kubernetes+user:kubernetes-sigs)**: Cloud-native orchestration | Go |
+| ![Kubernetes](https://img.shields.io/badge/--00ADD8?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3Akubernetes+OR+user%3Akubernetes-sigs%29+sort%3Aupdated-desc)**: Cloud-native orchestration | Go |
 | ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)**: Search client library | Go |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)**: Type-safe GraphQL client | Go |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)**: GraphQL server generator | Go |
