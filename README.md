@@ -10,7 +10,7 @@ I’m an engineering leader and systems programmer with 20+ years of experience 
 
 ## Open source
 
-I contribute to open-source projects across developer infrastructure, cloud-native tooling, programming languages, testing frameworks, and platform ecosystems.
+I contribute to open-source projects across developer infrastructure, cloud-native tooling, programming languages, testing frameworks, and platform ecosystems, including **Git, Go, Homebrew, Kubernetes, and Testify**.
 
 ### Highlights
 
