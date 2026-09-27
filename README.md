@@ -16,20 +16,20 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 
 <table>
   <tr>
-    <td align="center" width="266">
+    <td align="center" valign="top" width="266">
       <a href="https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren"><img src="https://cdn.simpleicons.org/git" height="48" alt="Git"></a><br>
       <b><a href="https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren">Git</a></b><br>
-      <sub>Version control · C</sub>
+      <sub><code>branch --delete-merged</code><br><code>status.compareBranches</code><br><code>bisect --reset-when-found</code></sub>
     </td>
-    <td align="center" width="266">
+    <td align="center" valign="top" width="266">
       <a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew"><img src="https://cdn.simpleicons.org/homebrew" height="48" alt="Homebrew"></a><br>
       <b><a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew">Homebrew</a></b><br>
-      <sub>Package manager · Ruby</sub>
+      <sub>Overhauled <code>brew info</code><br>Clearer upgrade plans<br>PATH shadowing warnings</sub>
     </td>
-    <td align="center" width="266">
+    <td align="center" valign="top" width="266">
       <a href="https://go-review.googlesource.com/q/is:merged+Harald+Nordgren"><img src="https://cdn.simpleicons.org/go" height="48" alt="Go"></a><br>
       <b><a href="https://go-review.googlesource.com/q/is:merged+Harald+Nordgren">Go</a></b><br>
-      <sub>Programming language</sub>
+      <sub>Proposed <a href="https://github.com/golang/go/issues/27864"><code>strings.ReplaceAll</code></a><br>Column names in SQL errors</sub>
     </td>
   </tr>
 </table>
