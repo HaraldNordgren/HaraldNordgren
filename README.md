@@ -36,7 +36,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 
 ### <img src="https://cdn.simpleicons.org/go" height="20" alt=""> Go
 
-| | Project | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)** | Testing toolkit |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)** | GraphQL subscriptions and websockets |
@@ -49,7 +49,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 
 ### <img src="https://cdn.simpleicons.org/typescript" height="20" alt=""> JavaScript / TypeScript
 
-| | Project | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)** | Cloud platform CLI |
 | ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[GitGitGadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | Git contribution automation |
@@ -58,7 +58,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 
 ### <img src="https://cdn.simpleicons.org/ruby" height="20" alt=""> Ruby
 
-| | Project | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Ruby](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Ruby](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ruby)** | Programming language |
 | ![Sorbet](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Type checker |
@@ -66,14 +66,14 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 
 ### <img src="https://cdn.simpleicons.org/cplusplus" height="20" alt=""> C++
 
-| | Project | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Qt](https://img.shields.io/badge/--f34b7d?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** | Cross-platform UI framework |
 | ![QBittorrent](https://img.shields.io/badge/--f34b7d?logo=qbittorrent\&logoColor=white) | **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | BitTorrent desktop client |
 
 ### <img src="https://cdn.simpleicons.org/python" height="20" alt=""> Python / Shell
 
-| | Project | Description |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell productivity framework |
 | ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
