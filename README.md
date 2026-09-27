@@ -70,21 +70,15 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Qt](https://img.shields.io/badge/--f34b7d?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** | Cross-platform UI framework |
 | ![QBittorrent](https://img.shields.io/badge/--f34b7d?logo=qbittorrent\&logoColor=white) | **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | BitTorrent desktop client |
 
-### <img src="https://cdn.simpleicons.org/python" height="20" alt=""> Python / Shell
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
-| :-: | :------ | :---------- |
-| ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell productivity framework |
-| ![Mole](https://img.shields.io/badge/--89e051?logo=apple\&logoColor=black) | **[Mole](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:tw93/Mole)** | macOS cleanup tool |
-| ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
-| ![Cassandra](https://img.shields.io/badge/--3572A5?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
-| ![Splinter](https://img.shields.io/badge/--3572A5?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Browser testing framework |
-
 ### Misc
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
+| ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell productivity framework |
+| ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
 | ![Jellyfin](https://img.shields.io/badge/--A97BFF?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV client in Kotlin |
+| ![Cassandra](https://img.shields.io/badge/--3572A5?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
+| ![Splinter](https://img.shields.io/badge/--3572A5?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Browser testing framework |
 
 ### More
 
