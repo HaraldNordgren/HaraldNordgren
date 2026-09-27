@@ -36,25 +36,37 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
   </tr>
 </table>
 
+### Major contributions
+
+<table>
+  <tr>
+    <td align="center" width="373">
+      <a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify"><img src="https://cdn.simpleicons.org/go" height="48" alt="Testify"></a><br>
+      <b><a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify">Testify</a></b><br>
+      <img src="https://img.shields.io/github/stars/stretchr/testify?style=social" alt="GitHub stars"><br>
+      <sub>Go's most popular testing toolkit</sub><br>
+      <sub><b>Top 30 contributor and reviewer</b> · clearer <code>assert</code> diffs for <code>time.Time</code>, nested structs and type aliases</sub>
+    </td>
+    <td align="center" width="373">
+      <a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient"><img src="https://cdn.simpleicons.org/graphql" height="48" alt="genqlient"></a><br>
+      <b><a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient">genqlient</a></b><br>
+      <img src="https://img.shields.io/github/stars/Khan/genqlient?style=social" alt="GitHub stars"><br>
+      <sub>Khan Academy's type-safe GraphQL client for Go</sub><br>
+      <sub><b>#3 all-time contributor</b> · GraphQL subscriptions: generic responses, connection params, websocket lifecycle</sub>
+    </td>
+  </tr>
+</table>
+
 ### <img src="https://cdn.simpleicons.org/go" height="20" alt=""> Go
 
 | | Project | Description |
 | :-: | :------ | :---------- |
 | ![Kubernetes](https://img.shields.io/badge/--00ADD8?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3Akubernetes+OR+user%3Akubernetes-sigs+OR+user%3Aderailed+%29+sort%3Aupdated-desc)** · **[Docker](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:docker)** | Cloud-native orchestration and containers |
 | ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3Agithub+OR+repo%3Amislav%2Fhub+%29+sort%3Aupdated-desc)** | Developer workflow tools |
-| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)** · **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | Testing and mock generation |
 | ![Golangci](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Golangci-lint](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golangci)** | Static analysis |
-| ![GraphQL](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[GraphQL](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3AKhan+OR+user%3A99designs+%29+sort%3Aupdated-desc)** | Client and server code generation |
+| ![gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)** · **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | GraphQL server and mock generation |
 | ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)** · **[OpenAI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)** · **[RevenueCat](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)** | API client libraries |
 | ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
-
-### <img src="https://cdn.simpleicons.org/ruby" height="20" alt=""> Ruby
-
-| | Project | Description |
-| :-: | :------ | :---------- |
-| ![Ruby](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Ruby](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ruby)** | Programming language |
-| ![Sorbet](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Type checker |
-| ![Travis](https://img.shields.io/badge/--CC342D?logo=travis-ci\&logoColor=white) | **[Travis CI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:travis-ci)** | CI/CD documentation |
 
 ### <img src="https://cdn.simpleicons.org/typescript" height="20" alt=""> JavaScript / TypeScript
 
@@ -64,6 +76,14 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** · **[Amplitude](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)** | Error monitoring and analytics SDKs |
 | ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[GitGitGadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | Git contribution automation |
 | ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** · **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Browser extensions |
+
+### <img src="https://cdn.simpleicons.org/ruby" height="20" alt=""> Ruby
+
+| | Project | Description |
+| :-: | :------ | :---------- |
+| ![Ruby](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Ruby](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ruby)** | Programming language |
+| ![Sorbet](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Type checker |
+| ![Travis](https://img.shields.io/badge/--CC342D?logo=travis-ci\&logoColor=white) | **[Travis CI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:travis-ci)** | CI/CD documentation |
 
 ### <img src="https://cdn.simpleicons.org/cplusplus" height="20" alt=""> C++
 
