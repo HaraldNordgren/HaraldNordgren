@@ -41,11 +41,11 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)** | Testing toolkit |
 | ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)** | GraphQL subscriptions and websockets |
 | ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
-| ![Kubernetes](https://img.shields.io/badge/--00ADD8?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3Akubernetes+OR+user%3Akubernetes-sigs+OR+user%3Aderailed+%29+sort%3Aupdated-desc)** · **[Docker](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:docker)** | Cloud-native orchestration and containers |
+| ![Go-funk](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Go-funk](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:thoas/go-funk)** | Functional utility library |
+| ![Kubernetes](https://img.shields.io/badge/--00ADD8?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3Akubernetes+OR+user%3Akubernetes-sigs+OR+user%3Aderailed+%29+sort%3Aupdated-desc)** | Cloud-native orchestration |
 | ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3Agithub+OR+repo%3Amislav%2Fhub+%29+sort%3Aupdated-desc)** | Developer workflow tools |
-| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)** · **[OpenAI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)** · **[RevenueCat](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)** | API client libraries |
+| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)** · **[OpenAI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)** | API client libraries |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)** · **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | GraphQL server and mock generation |
-| ![Golangci](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Golangci-lint](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golangci)** | Static analysis |
 
 ### <img src="https://cdn.simpleicons.org/typescript" height="20" alt=""> JavaScript / TypeScript
 
@@ -62,7 +62,6 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | :-: | :------ | :---------- |
 | ![Ruby](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Ruby](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ruby)** | Programming language |
 | ![Sorbet](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Type checker |
-| ![Travis](https://img.shields.io/badge/--CC342D?logo=travis-ci\&logoColor=white) | **[Travis CI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:travis-ci)** | CI/CD documentation |
 
 ### <img src="https://cdn.simpleicons.org/cplusplus" height="20" alt=""> C++
 
@@ -76,9 +75,16 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Oh My Zsh](https://img.shields.io/badge/--89e051?logo=zsh\&logoColor=black) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell productivity framework |
+| ![Mole](https://img.shields.io/badge/--89e051?logo=apple\&logoColor=black) | **[Mole](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:tw93/Mole)** | macOS cleanup tool |
 | ![Gvm](https://img.shields.io/badge/--89e051?logo=gnu-bash\&logoColor=black) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
 | ![Cassandra](https://img.shields.io/badge/--3572A5?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
-| ![Splinter](https://img.shields.io/badge/--3572A5?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** · **[Nose Timer](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)** | Browser testing and test timing |
+| ![Splinter](https://img.shields.io/badge/--3572A5?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Browser testing framework |
+
+### Misc
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
+| :-: | :------ | :---------- |
+| ![Jellyfin](https://img.shields.io/badge/--A97BFF?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV client in Kotlin |
 
 ### More
 
