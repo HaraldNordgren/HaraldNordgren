@@ -6,7 +6,7 @@
 
 I’m an engineering leader and systems programmer with 20+ years of experience building developer tools, infrastructure, cloud services, and product platforms. At Hava, I lead engineering across product and platform, focusing on technical direction, architecture, delivery, reliability, and team development.
 
-[![Open source: merged pull requests](https://img.shields.io/badge/open_source-merged_pull_requests-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=involves%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)
+[![View all pull requests](https://img.shields.io/badge/View_all_pull_requests_%E2%86%92-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=involves%3AHaraldNordgren+sort%3Acreated-asc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)
 
 </div>
 
