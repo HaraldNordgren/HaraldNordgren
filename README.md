@@ -80,8 +80,6 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Cassandra](https://img.shields.io/badge/--3572A5?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
 | ![Splinter](https://img.shields.io/badge/--3572A5?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** · **[Nose Timer](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mahmoudimus/nose-timer)** | Browser testing and test timing |
 
-<div align="center">
+### More
 
-[![View all pull requests](https://img.shields.io/badge/View_all_pull_requests_%E2%86%92-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=involves%3AHaraldNordgren+sort%3Acreated-desc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)
-
-</div>
+[![View all pull requests](https://img.shields.io/badge/View_all_pull_requests_%E2%86%92-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=involves%3AHaraldNordgren+sort%3Aupdated-desc+is%3Apublic+is%3Apr+is%3Amerged+-user%3Adatateknik-lth+-user%3AHaraldNordgren+NOT+%22Bump+Go+versions%22+NOT+%22Bump+Travis+versions%22+)
