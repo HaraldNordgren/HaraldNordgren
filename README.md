@@ -75,7 +75,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Cassandra](https://img.shields.io/badge/--8957E5?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
-| ![Jellyfin](https://img.shields.io/badge/--8957E5?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV client in Kotlin |
+| ![Jellyfin](https://img.shields.io/badge/--8957E5?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV media client |
 | ![Oh My Zsh](https://img.shields.io/badge/--8957E5?logo=zsh\&logoColor=white) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell productivity framework |
 | ![Gvm](https://img.shields.io/badge/--8957E5?logo=gnu-bash\&logoColor=white) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
 | ![Splinter](https://img.shields.io/badge/--8957E5?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Browser testing framework |
