@@ -70,7 +70,8 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 
 | | Project | Description |
 | :-: | :------ | :---------- |
-| ![Qt](https://img.shields.io/badge/--f34b7d?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** · **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | Adaptive spin box stepping, added to Qt and used in QBittorrent |
+| ![Qt](https://img.shields.io/badge/--f34b7d?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** | Cross-platform UI framework |
+| ![QBittorrent](https://img.shields.io/badge/--f34b7d?logo=qbittorrent\&logoColor=white) | **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | BitTorrent desktop client |
 
 ### <img src="https://cdn.simpleicons.org/python" height="20" alt=""> Python / Shell
 
