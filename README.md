@@ -17,17 +17,17 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 <table>
   <tr>
     <td align="center" width="266">
-      <a href="https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren"><img src="https://cdn.simpleicons.org/git" height="48" alt="Git"></a><br>
+      <a href="https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren"><img src="https://img.shields.io/badge/--F05032?logo=git&logoColor=white" width="60" alt="Git"></a><br>
       <b><a href="https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren">Git</a></b><br>
       <sub>Version control · C</sub>
     </td>
     <td align="center" width="266">
-      <a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew"><img src="https://cdn.simpleicons.org/homebrew" height="48" alt="Homebrew"></a><br>
+      <a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew"><img src="https://img.shields.io/badge/--FBB040?logo=homebrew&logoColor=black" width="60" alt="Homebrew"></a><br>
       <b><a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew">Homebrew</a></b><br>
       <sub>Package manager · Ruby</sub>
     </td>
     <td align="center" width="266">
-      <a href="https://go-review.googlesource.com/q/is:merged+Harald+Nordgren"><img src="https://cdn.simpleicons.org/go" height="48" alt="Go"></a><br>
+      <a href="https://go-review.googlesource.com/q/is:merged+Harald+Nordgren"><img src="https://img.shields.io/badge/--00ADD8?logo=go&logoColor=white" width="60" alt="Go"></a><br>
       <b><a href="https://go-review.googlesource.com/q/is:merged+Harald+Nordgren">Go</a></b><br>
       <sub>Programming language</sub>
     </td>
