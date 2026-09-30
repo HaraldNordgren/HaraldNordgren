@@ -34,7 +34,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
   </tr>
 </table>
 
-### <img src="https://cdn.simpleicons.org/go" height="20" alt=""> Go
+### Go
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
@@ -47,7 +47,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
 | ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)** · **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | GraphQL server and mock generation |
 
-### <img src="https://cdn.simpleicons.org/typescript" height="20" alt=""> JavaScript / TypeScript
+### JavaScript / TypeScript
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
@@ -56,14 +56,14 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** · **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Browser extensions |
 | ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[GitGitGadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | Git contribution automation |
 
-### <img src="https://cdn.simpleicons.org/ruby" height="20" alt=""> Ruby
+### Ruby
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Ruby](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Ruby](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ruby)** | Programming language |
 | ![Sorbet](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Type checker |
 
-### <img src="https://cdn.simpleicons.org/cplusplus" height="20" alt=""> C++
+### C++
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
