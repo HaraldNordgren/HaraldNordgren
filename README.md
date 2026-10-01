@@ -52,9 +52,9 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)** | Cloud platform CLI |
+| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** · **[Amplitude](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)** | Error monitoring and analytics SDKs |
 | ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** · **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Browser extensions |
 | ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[GitGitGadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | Git contribution automation |
-| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** · **[Amplitude](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)** | Error monitoring and analytics SDKs |
 
 ### Ruby
 
