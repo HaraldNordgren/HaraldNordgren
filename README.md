@@ -53,18 +53,18 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
-| ![Genqlient](https://img.shields.io/badge/--8957E5?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)** | GraphQL subscriptions and websockets |
-| ![Sorbet](https://img.shields.io/badge/--8957E5?logo=ruby\&logoColor=white) | **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Type checker |
-| ![Cassandra](https://img.shields.io/badge/--8957E5?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
-| ![Jellyfin](https://img.shields.io/badge/--8957E5?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV media client |
-| ![Migrate](https://img.shields.io/badge/--8957E5?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
-| ![Go-funk](https://img.shields.io/badge/--8957E5?logo=go\&logoColor=white) | **[Go-funk](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:thoas/go-funk)** | Functional utility library |
-| ![Gqlgen](https://img.shields.io/badge/--8957E5?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)** · **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | GraphQL server and mock generation |
-| ![Gvm](https://img.shields.io/badge/--8957E5?logo=gnu-bash\&logoColor=white) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
-| ![GitGitGadget](https://img.shields.io/badge/--8957E5?logo=git\&logoColor=white) | **[GitGitGadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | Git contribution automation |
-| ![Splinter](https://img.shields.io/badge/--8957E5?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Browser testing framework |
-| ![Google Calendar](https://img.shields.io/badge/--8957E5?logo=googlecalendar\&logoColor=white) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** | Calendar browser extension |
-| ![Last.fm](https://img.shields.io/badge/--8957E5?logo=last.fm\&logoColor=white) | **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Music scrobbling extension |
+| ![Genqlient](https://img.shields.io/badge/--58A6FF?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)** | GraphQL subscriptions and websockets |
+| ![Sorbet](https://img.shields.io/badge/--58A6FF?logo=ruby\&logoColor=white) | **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Type checker |
+| ![Cassandra](https://img.shields.io/badge/--58A6FF?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
+| ![Jellyfin](https://img.shields.io/badge/--58A6FF?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV media client |
+| ![Migrate](https://img.shields.io/badge/--58A6FF?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
+| ![Go-funk](https://img.shields.io/badge/--58A6FF?logo=go\&logoColor=white) | **[Go-funk](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:thoas/go-funk)** | Functional utility library |
+| ![Gqlgen](https://img.shields.io/badge/--58A6FF?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)** · **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | GraphQL server and mock generation |
+| ![Gvm](https://img.shields.io/badge/--58A6FF?logo=gnu-bash\&logoColor=white) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
+| ![GitGitGadget](https://img.shields.io/badge/--58A6FF?logo=git\&logoColor=white) | **[GitGitGadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | Git contribution automation |
+| ![Splinter](https://img.shields.io/badge/--58A6FF?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Browser testing framework |
+| ![Google Calendar](https://img.shields.io/badge/--58A6FF?logo=googlecalendar\&logoColor=white) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** | Calendar browser extension |
+| ![Last.fm](https://img.shields.io/badge/--58A6FF?logo=last.fm\&logoColor=white) | **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Music scrobbling extension |
 
 ### More
 
