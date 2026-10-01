@@ -68,7 +68,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Qt](https://img.shields.io/badge/--f34b7d?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** | Cross-platform UI framework |
-| ![QBittorrent](https://img.shields.io/badge/--f34b7d?logo=qbittorrent\&logoColor=white) | **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** | BitTorrent desktop client |
+| ![Qt apps](https://img.shields.io/badge/--f34b7d?logo=qt\&logoColor=white) | **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** · **[VLC](https://code.videolan.org/videolan/vlc/-/merge_requests/?state=merged&author_username=HaraldNordgren)** | Qt desktop applications |
 
 ### Misc
 
