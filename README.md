@@ -55,6 +55,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Testify](https://img.shields.io/badge/--2DA44E?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)** · **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | Testing toolkit and mock generation |
+| ![Splinter](https://img.shields.io/badge/--2DA44E?logo=python\&logoColor=white) | **[Splinter](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:cobrateam/splinter)** | Browser testing framework |
 
 ### APIs
 
@@ -62,6 +63,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | :-: | :------ | :---------- |
 | ![Genqlient](https://img.shields.io/badge/--E10098?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)** · **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)** | GraphQL client and server |
 | ![OpenAI](https://img.shields.io/badge/--E10098?logo=go\&logoColor=white) | **[OpenAI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)** | AI API client |
+| ![RevenueCat](https://img.shields.io/badge/--E10098?logo=revenuecat\&logoColor=white) | **[RevenueCat](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mhemmings/revenuecat)** | Subscription API client |
 
 ### Databases
 
@@ -70,6 +72,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Elastic](https://img.shields.io/badge/--F29111?logo=elasticsearch\&logoColor=black) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)** | Search engine client |
 | ![Cassandra](https://img.shields.io/badge/--F29111?logo=apache-cassandra\&logoColor=black) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
 | ![Migrate](https://img.shields.io/badge/--F29111?logo=go\&logoColor=black) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
+| ![Reform](https://img.shields.io/badge/--F29111?logo=go\&logoColor=black) | **[Reform](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:go-reform/reform)** | Object-relational mapper |
 
 ### Client apps
 
@@ -77,6 +80,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | :-: | :------ | :---------- |
 | ![Qt](https://img.shields.io/badge/--8957E5?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** · **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** · **[VLC](https://code.videolan.org/videolan/vlc/-/merge_requests/?state=merged&author_username=HaraldNordgren)** | Qt framework and desktop applications |
 | ![Jellyfin](https://img.shields.io/badge/--8957E5?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV media client |
+| ![Mole](https://img.shields.io/badge/--8957E5?logo=apple\&logoColor=white) | **[Mole](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:tw93/Mole)** | macOS cleanup and optimization tool |
 | ![Google Calendar](https://img.shields.io/badge/--8957E5?logo=google\&logoColor=white) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** · **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Browser extensions |
 
 ### Developer workflow
