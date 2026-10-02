@@ -34,46 +34,75 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
   </tr>
 </table>
 
-### JavaScript / TypeScript
+### Features and fixes
+
+#### JavaScript / TypeScript
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Heroku](https://img.shields.io/badge/--f7df1e?logo=javascript\&logoColor=black) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)** | Cloud platform CLI |
-| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** · **[Amplitude](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)** | Error monitoring and analytics SDKs |
-| ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** · **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Browser extensions |
+| ![Google Calendar](https://img.shields.io/badge/--f7df1e?logo=google\&logoColor=black) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** | Browser extension |
 | ![GitGitGadget](https://img.shields.io/badge/--f7df1e?logo=git\&logoColor=black) | **[GitGitGadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | Git contribution automation |
 
-### Go
+#### Go
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
-| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)** · **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | Testing toolkit and mock generation |
+| ![Testify](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Testify](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:stretchr/testify)** | Testing toolkit |
 | ![Kubernetes](https://img.shields.io/badge/--00ADD8?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3Akubernetes+OR+user%3Akubernetes-sigs+%29+sort%3Aupdated-desc)** · **[K9s](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:derailed/k9s)** | Cloud-native orchestration and tooling |
-| ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)** · **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)** | GraphQL client and server |
-| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)** · **[OpenAI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)** | API client libraries |
+| ![Genqlient](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Genqlient](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:Khan/genqlient)** | GraphQL client |
 | ![Go-funk](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Go-funk](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:thoas/go-funk)** | Functional utility library |
-| ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
-| ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:github)** · **[Hub](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mislav/hub)** | Developer workflow tools |
+| ![Hub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[Hub](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mislav/hub)** | GitHub command-line tool |
 
-### Ruby
+#### Ruby
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
-| ![Ruby](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Ruby](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ruby)** · **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Programming language and type checker |
+| ![Ruby](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Ruby](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ruby)** | Programming language |
 
-### C++
+#### C++
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Qt](https://img.shields.io/badge/--f34b7d?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** · **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** · **[VLC](https://code.videolan.org/videolan/vlc/-/merge_requests/?state=merged&author_username=HaraldNordgren)** | Qt framework and desktop applications |
 
-### Misc
+#### Misc
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
+| :-: | :------ | :---------- |
+| ![Jellyfin](https://img.shields.io/badge/--8957E5?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV media client |
+| ![Mole](https://img.shields.io/badge/--8957E5?logo=apple\&logoColor=white) | **[Mole](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:tw93/Mole)** | macOS cleanup and optimization tool |
+
+### Maintenance
+
+#### JavaScript / TypeScript
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
+| :-: | :------ | :---------- |
+| ![Sentry](https://img.shields.io/badge/--f7df1e?logo=sentry\&logoColor=black) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** · **[Amplitude](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)** | Error monitoring and analytics SDKs |
+| ![Last.fm](https://img.shields.io/badge/--f7df1e?logo=lastdotfm\&logoColor=black) | **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Scrobbler browser extension |
+
+#### Go
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
+| :-: | :------ | :---------- |
+| ![Elastic](https://img.shields.io/badge/--00ADD8?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)** · **[OpenAI](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:sashabaranov/go-openai)** | API client libraries |
+| ![GitHub](https://img.shields.io/badge/--00ADD8?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:github)** | Docs and developer tooling |
+| ![Gqlgen](https://img.shields.io/badge/--00ADD8?logo=graphql\&logoColor=white) | **[Gqlgen](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:99designs/gqlgen)** | GraphQL server |
+| ![Migrate](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
+| ![Moq](https://img.shields.io/badge/--00ADD8?logo=go\&logoColor=white) | **[Moq](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:matryer/moq)** | Mock generation |
+
+#### Ruby
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
+| :-: | :------ | :---------- |
+| ![Sorbet](https://img.shields.io/badge/--CC342D?logo=ruby\&logoColor=white) | **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Type checker |
+
+#### Misc
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Cassandra](https://img.shields.io/badge/--8957E5?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
-| ![Jellyfin](https://img.shields.io/badge/--8957E5?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV media client |
-| ![Mole](https://img.shields.io/badge/--8957E5?logo=apple\&logoColor=white) | **[Mole](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:tw93/Mole)** | macOS cleanup and optimization tool |
 | ![Oh My Zsh](https://img.shields.io/badge/--8957E5?logo=zsh\&logoColor=white) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell productivity framework |
 | ![Gvm](https://img.shields.io/badge/--8957E5?logo=gnu-bash\&logoColor=white) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
 
