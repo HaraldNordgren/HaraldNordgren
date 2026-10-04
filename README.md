@@ -76,7 +76,8 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Qt](https://img.shields.io/badge/--8957E5?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** · **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** · **[VLC](https://code.videolan.org/videolan/vlc/-/merge_requests/?state=merged&author_username=HaraldNordgren)** | Qt framework and desktop applications |
-| ![Jellyfin](https://img.shields.io/badge/--8957E5?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Android TV media client |
+| ![Jellyfin](https://img.shields.io/badge/--8957E5?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Media server and Android TV client |
+| ![Mole](https://img.shields.io/badge/--8957E5?logo=apple\&logoColor=white) | **[Mole](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:tw93/Mole)** | Cleanup and optimization tool for macOS |
 | ![Google Calendar](https://img.shields.io/badge/--8957E5?logo=google\&logoColor=white) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** · **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Browser extensions |
 
 ### Developer workflow
