@@ -2,8 +2,6 @@
 
 # Harald Nordgren
 
-**CTO at [Diet Doctor](https://www.dietdoctor.com/)**
-
 I’m an engineering leader and systems programmer with 20+ years of experience building developer tools, infrastructure, cloud services, and product platforms. At Diet Doctor, I lead engineering across product and platform, focusing on technical direction, architecture, delivery, reliability, and team development.
 
 </div>
