@@ -2,7 +2,7 @@
 
 # Harald Nordgren
 
-I’m an engineering leader and systems programmer with 20+ years of experience building developer tools, infrastructure, cloud services, and product platforms. At Diet Doctor, I lead engineering across product and platform, focusing on technical direction, architecture, delivery, reliability, and team development.
+I build production-quality systems, from payment platforms and video to integrations and AI, along with the infrastructure, cloud services, and developer tools that keep them running. I started writing code more than 20 years ago and never stopped, even while leading engineering teams. When something I rely on falls short, I fix it upstream.
 
 </div>
 
