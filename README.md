@@ -17,12 +17,12 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
     <td align="center" valign="top" width="400">
       <a href="https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren"><img src="https://img.shields.io/badge/--F05032?logo=git&logoColor=white" width="60" alt="Git"></a><br>
       <b><a href="https://git.kernel.org/pub/scm/git/git.git/log/?qt=grep&q=Harald+Nordgren">Git</a></b><br>
-      <sub>Top 200 contributor</sub>
+      <sub>All-time top 200 contributor</sub>
     </td>
     <td align="center" valign="top" width="400">
       <a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew"><img src="https://img.shields.io/badge/--FBB040?logo=homebrew&logoColor=black" width="60" alt="Homebrew"></a><br>
       <b><a href="https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:Homebrew">Homebrew</a></b><br>
-      <sub>Top 100 contributor</sub>
+      <sub>All-time top 100 contributor</sub>
     </td>
   </tr>
 </table>
