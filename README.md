@@ -2,7 +2,7 @@
 
 # Harald Nordgren
 
-I’m an engineering leader and systems programmer with 20+ years of experience building developer tools, infrastructure, cloud services, and product platforms. I lead engineering across product and platform, focusing on technical direction, architecture, delivery, reliability, and team development.
+I’m an engineering leader and systems programmer with 20+ years of experience building developer tools, infrastructure, cloud services, and product platforms. I’ve grown from tech lead to engineering manager to CTO. Today I’m part of the executive leadership team, owning engineering strategy, organizational design, delivery, and technical direction.
 
 </div>
 
