@@ -79,7 +79,6 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![GitGitGadget](https://img.shields.io/badge/--57606A?logo=git\&logoColor=white) | **[GitGitGadget](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:gitgitgadget)** | Git contribution automation |
 | ![Oh My Zsh](https://img.shields.io/badge/--57606A?logo=zsh\&logoColor=white) | **[Oh My Zsh](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ohmyzsh)** | Shell productivity framework |
 | ![GitHub](https://img.shields.io/badge/--57606A?logo=github\&logoColor=white) | **[GitHub](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:github)** · **[Hub](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:mislav/hub)** | Docs and Git CLI wrapper |
-| ![Go-funk](https://img.shields.io/badge/--57606A?logo=go\&logoColor=white) | **[Go-funk](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:thoas/go-funk)** | Functional utility library |
 | ![Gvm](https://img.shields.io/badge/--57606A?logo=gnu-bash\&logoColor=white) | **[Gvm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:moovweb/gvm)** | Go version manager |
 
 ### More
