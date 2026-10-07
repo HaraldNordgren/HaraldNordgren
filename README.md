@@ -34,6 +34,15 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Go](https://img.shields.io/badge/--0969DA?logo=go\&logoColor=white) | **[Go](https://go-review.googlesource.com/q/is:merged+Harald+Nordgren)** | Programming language |
 | ![Ruby](https://img.shields.io/badge/--0969DA?logo=ruby\&logoColor=white) | **[Ruby](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:ruby)** · **[Sorbet](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:sorbet)** | Programming language and type checker |
 
+### Client apps
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
+| :-: | :------ | :---------- |
+| ![Qt](https://img.shields.io/badge/--1B7C83?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** · **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** · **[VLC](https://code.videolan.org/videolan/vlc/-/merge_requests/?state=merged&author_username=HaraldNordgren)** | Qt framework and desktop applications |
+| ![Jellyfin](https://img.shields.io/badge/--1B7C83?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Media server and Android TV client |
+| ![Mole](https://img.shields.io/badge/--1B7C83?logo=apple\&logoColor=white) | **[Mole](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:tw93/Mole)** | Cleanup and optimization tool for macOS |
+| ![Google Calendar](https://img.shields.io/badge/--1B7C83?logo=google\&logoColor=white) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** · **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Browser extensions |
+
 ### Cloud and observability
 
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
@@ -62,15 +71,6 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | ![Elastic](https://img.shields.io/badge/--BC4C00?logo=elasticsearch\&logoColor=white) | **[Elasticsearch](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:elastic)** | Search engine client |
 | ![Cassandra](https://img.shields.io/badge/--BC4C00?logo=apache-cassandra\&logoColor=white) | **[Cassandra](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:apache/cassandra-python-driver)** | Distributed database driver |
 | ![Migrate](https://img.shields.io/badge/--BC4C00?logo=go\&logoColor=white) | **[Migrate](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:golang-migrate)** | Database migrations |
-
-### Client apps
-
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
-| :-: | :------ | :---------- |
-| ![Qt](https://img.shields.io/badge/--1B7C83?logo=qt\&logoColor=white) | **[Qt](https://code.qt.io/cgit/qt/qtbase.git/log/?qt=author&q=HaraldNordgren&showmsg=1)** · **[QBittorrent](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:qbittorrent)** · **[VLC](https://code.videolan.org/videolan/vlc/-/merge_requests/?state=merged&author_username=HaraldNordgren)** | Qt framework and desktop applications |
-| ![Jellyfin](https://img.shields.io/badge/--1B7C83?logo=jellyfin\&logoColor=white) | **[Jellyfin](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:jellyfin)** | Media server and Android TV client |
-| ![Mole](https://img.shields.io/badge/--1B7C83?logo=apple\&logoColor=white) | **[Mole](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:tw93/Mole)** | Cleanup and optimization tool for macOS |
-| ![Google Calendar](https://img.shields.io/badge/--1B7C83?logo=google\&logoColor=white) | **[Google Calendar](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:chimbori/google-calendar-crx)** · **[Last.fm](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:web-scrobbler)** | Browser extensions |
 
 ### Developer workflow
 
