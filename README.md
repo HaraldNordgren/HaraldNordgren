@@ -48,7 +48,7 @@ I contribute to open-source projects across developer infrastructure, cloud-nati
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Project | Description |
 | :-: | :------ | :---------- |
 | ![Kubernetes](https://img.shields.io/badge/--8250DF?logo=kubernetes\&logoColor=white) | **[Kubernetes](https://github.com/pulls/search?q=involves%3AHaraldNordgren+is%3Amerged+%28user%3Akubernetes+OR+user%3Akubernetes-sigs+%29+sort%3Aupdated-desc)** · **[K9s](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+repo:derailed/k9s)** | Cloud-native orchestration and tooling |
-| ![Heroku](https://img.shields.io/badge/--8250DF?logo=javascript\&logoColor=white) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)** | Cloud platform CLI |
+| ![Heroku](https://img.shields.io/badge/--8250DF?logo=heroku\&logoColor=white) | **[Heroku](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:heroku)** | Cloud platform CLI |
 | ![Sentry](https://img.shields.io/badge/--8250DF?logo=sentry\&logoColor=white) | **[Sentry](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:getsentry)** · **[Amplitude](https://github.com/pulls?q=involves:HaraldNordgren+is:merged+user:amplitude)** | Error monitoring and analytics SDKs |
 
 ### Testing
